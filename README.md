@@ -1,4 +1,4 @@
-# TextBookSummary
+# TextAI_Summary README
 Script built with openAI to summarize text from any PDF, no matter the length.
 
 - Feel free to clone or branch. Run locally on your machine.
@@ -20,4 +20,4 @@ Instructions for use:
 - Enjoy!
 
 
-See "Comments.md" to log issues or request modifications/additions
+See "Discussions" tab to log issues or request modifications/additions, vent, etc.
