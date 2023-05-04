@@ -13,7 +13,11 @@ Instructions for use:
 - -pip install jupyterlab
 - -pip install notebook
 - Download whatever .PDF you want to use into the same directory you store this python script
-- 
+- In Anaconda, navigate to directory where this code is saved
+- type "jupyter notebook" in your prompt. A new notebook should open in your browser where you can run line by line
+- Read comments for where changes to your file name and directory and API key need to be updated
+- Enter your AI commands after " prompt=f""" " and before the " \" to instruct the AI what do to
+- Enjoy!
 
 
-See "Observations.MD" to log issues or request modifications/additions
+See "Comments.md" to log issues or request modifications/additions
