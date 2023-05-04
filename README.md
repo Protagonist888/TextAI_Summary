@@ -1,7 +1,7 @@
 # TextBookSummary
-Script built with openAI to summarize text. 
+Script built with openAI to summarize text from any PDF, no matter the length.
 
-- Feel free to clone or branch. Run locally on your machines
+- Feel free to clone or branch. Run locally on your machine.
 - Go to openAI.com and obtain your unique API key [remember do not share this]
 
 Instructions for use:
