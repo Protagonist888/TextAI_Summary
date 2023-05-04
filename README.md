@@ -1,10 +1,10 @@
 # TextAI_Summary README
-**Script built with openAI to summarize text from any PDF, no matter the length.
+**Script built with openAI to summarize text from any PDF, no matter the length.**
 
 - Feel free to clone or branch. Run locally on your machine.
 - Go to openAI.com and obtain your unique API key [remember do not share this]
 
-**Instructions for use:
+**Instructions for use:**
 - Install Python
 - Install Anaconda
 - You will need to install the following packages for Python in your Anaconda prompt by:
@@ -20,4 +20,4 @@
 - Enjoy!
 
 
-**See "Discussions" tab to log issues or request modifications/additions, vent, etc.
+**See "Discussions" tab to log issues or request modifications/additions, vent, etc.**
