@@ -1,0 +1,1402 @@
+Review
+Review and evaluation of hydrogen production options for better
+environment
+Canan Acara,*, Ibrahim Dincerb,c
+aFaculty of Engineering and Natural Sciences, Bahcesehir University, Ç ıra/C21gan Caddesi No: 4 e6, 34353, Bes ¸ iktas ¸ , Istanbul, Turkey
+bFaculty of Engineering and Applied Science, University of Ontario Institute of Technology, 2000 Simcoe Street North, Oshawa, Ontario, L1H 7K4, Cana da
+cFaculty of Mechanical Engineering, Yildiz Technical University, Besiktas, Istanbul, Turkey
+article info
+Article history:
+Received 23 October 2018Received in revised form1 February 2019Accepted 4 February 2019Available online 5 February 2019
+Keywords:
+Hydrogen productionHydrogen economySustainability
+Energy
+Sourcesabstract
+In this study, different hydrogen production sources and systems and some hydrogen storage options are
+comparatively investigated in detail. Economic, environmental, social, and technical performance andreliability of the selected options are compared in detail. Biomass, geothermal, hydro, nuclear, solar, and
+wind are the selected hydrogen production sources; biological, thermal, photonic, and electrical are the
+selected hydrogen production methods; and chemical hydrides, compressed gas, cryogenic liquid, metalhydrides, and nanomaterials are the selected hydrogen storage systems. In addition, some case studies
+and basic research needs to enhance the performance of hydrogen energy systems and to tackle the
+major challenges of the hydrogen economy are provided. The results show that solar has the highestenvironmental performance (8/10) and the total average ranking (7.40/10), nuclear has the lowestenvironmental performance (3/10), and geothermal has the lowest total average ranking (4/10/10)
+among selected hydrogen production sources. Hydrogen production systems ’comparison indicates that
+photonic options have the highest environmental performance ranking (8/10), thermal options have thelowest environmental performance ranking (5/10), electrical options have the highest average ranking
+(7.60/10), and biological options have the lowest average ranking (4.80/10).
+©2019 Elsevier Ltd. All rights reserved.
+Contents
+1. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ................................................ 8 3 5
+2. 3S approach to hydrogen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ................................................ 8 3 7
+3. Review methodology of hydrogen options . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ................................... 8 3 8
+4. Sustainability analysis of hydrogen production options . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ................................... 8 3 9
+5. Results and discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ................................................ 8 4 1
+6. Future Directions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ................................................ 8 4 5
+7. Conclusions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ................................................ 8 4 7
+References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .......................8 4 7
+1. Introduction
+Hydrogen has the potential to provide economically feasible,
+ﬁnancially promising, and socially advantageous, and energeticallyefﬁcient solutions to issues related to the ever-increasing global
+energy demand, including global warming ( Dutta, 2014 ). In addi-
+tion, the recent studies show that it will be inevitable to initiate and
+accelerate the energy transition from traditional energy systems to
+innovative and sustainable alternatives ( Shaﬁei et al., 2017 ).
+Hydrogen is the fundamental pillar of the energy transition
+critically needed to combat global warming and other issues related
+to traditional energy systems ( Zhang et al., 2016 ). As can be seen*Corresponding author.
+E-mail address: Canan.Acar@eng.bau.edu.tr (C. Acar).
+Contents lists available at ScienceDirect
+Journal of Cleaner Production
+journal homepage: www.elsevier.com/locate/jclepro
+https://doi.org/10.1016/j.jclepro.2019.02.046
+0959-6526/ ©2019 Elsevier Ltd. All rights reserved.Journal of Cleaner Production 218 (2019) 835 e849
+from Fig. 1 , hydrogen systems could potentially have eight signi ﬁ-
+cant roles during this energy transition ( Dincer and Acar, 2016 ):
+/C15Large-scale renewable energy integration to the existing energy
+infrastructure
+/C15Accessible, reliable, safe, clean and affordable energy to all
+sectors and regions
+/C15Highly resilient energy systems
+/C15Integration to multigeneration systems to offer many valuable
+products with minimal losses
+/C15Cleaner transportation via fuel cells and hydrogen-fueled in-
+ternal combustion engines
+/C15Cleaner energy source to the industry, residential applications,
+buildings, etc.
+/C15Cleaner heating, cooling, drying, and power to all end users of
+the energy sector
+/C15Cleaner industrial feedstock
+Hydrogen has the potential to provide clean, ef ﬁcient, reliable,
+and affordable solutions in all these application ﬁelds with signif-
+icant social bene ﬁts (Kalinci et al., 2015 ). In the literature, it is re-
+ported that hydrogen can enable wide use and full market
+penetration of renewable energy sources ( Singh et al., 2016 ). On the
+end-user (service) side hydrogen is a critical complement to elec-
+tricity to store intermittent renewables which is a great step to-
+wards greenization of the energy systems ( Cipriani et al., 2014 ).
+In the literature, it is reported that hydrogen could meet 18% of
+theﬁnal energy demand, reduce 6 Gt of CO 2emissions annually,
+and create 30 million new jobs by 2050 ( Uyar and Besikci, 2017 ).
+The literature also shows that hydrogen could power over 400
+million cars, 15 e20 million trucks, and around 5 million buses in
+2050, which make up about 20 e25% of the transportation industry
+(Mostafaeipour et al., 2016 ). Along with its signi ﬁcant economic
+and environmental bene ﬁts, hydrogen energy systems are expected
+to operate at higher ef ﬁciencies in the future ( Nakamura et al.,
+2015 ). The literature shows that hydrogen is seen as the key to
+sustainable growth and solution to global warming issues
+(Gonz /C19alez et al., 2015 ).
+Hydrogen has another advantage which is the ability to be built
+on the existing natural gas infrastructure in buildings ( Gong et al.,
+2016 ). The literature shows that hydrogen could possibly meet
+about 10% of the global building heating demand by 2050 ( Valente
+et al., 2018 ). Another advantage of hydrogen is the ef ﬁcient use of
+medium and high-temperature heat processes in the industry
+(Maroufmashat et al., 2016 ). In these processes, electricity is not a
+very effective solution so hydrogen could be the perfect solution
+(Sgobbi et al., 2016 ). Furthermore, hydrogen production methods
+are getting more ef ﬁcient, affordable, and environmentally friendly
+and less fossil fuel dependent as the innovative hydrogenproduction pathways and systems are developed ( Salvi and
+Subramanian, 2015 ). In addition to being a sustainable energy
+storage medium and heating/cooling source, hydrogen is a valuable
+industrial chemical feedstock used mainly in methanol, ammonia,
+and steel production processes ( Acar and Dincer, 2014 ).
+Accomplishing a fully developed hydrogen economy requires
+well-established hydrogen energy systems from better resources,
+production methods, end use options (3S approach) including the
+storage and distribution of hydrogen ( Dincer and Acar, 2015a ). A
+fully developed hydrogen economy is essential to combat global
+warming and critical for a sustainable future with signi ﬁcant
+environmental, economic, and societal bene ﬁts (G€ollei et al., 2016 ).
+Hydrogen does not only eliminate greenhouse gas emissions, but it
+can also eliminate other emissions which damage the environment
+and cause global warming ( Sarrias-Mena et al., 2015 ). These
+emissions are sulfur oxides, nitrogen oxides, and particulates
+causing smog ( Owierkowicz and Malinowska, 2017 ). Hydrogen can
+also minimize noise pollution by replacing fossil fuel combustion
+processes in the transportation sector, in buildings, and in the in-
+dustry ( Marchenko and Solomin, 2015 ). Furthermore, energy se-
+curity can be accomplished with hydrogen economy by takingadvantage of domestic, locally available, reliable, and secure energy
+and material sources for hydrogen production, distribution, storage,
+and end-use ( De Santoli et al., 2017 ).
+In order to accomplish a fully developed hydrogen economy and
+to make hydrogen a critical component for the energy market,
+signiﬁcant research and investment are required on hydrogen
+production systems ( Chintala and Subramanian, 2015 ). The goal is
+to make hydrogen production systems more ef ﬁcient, affordable,
+reliable, safe, and ready for different types of end-user needs such
+as small/large scale, portable/stationary, etc. As the current
+hydrogen production systems use already available technologies,
+the need is to set up a well-developed hydrogen infrastructure
+(Joshi et al., 2016 ). This can be achieved by increasing hydrogen
+production systems ’capacities and subsequently reducing costs
+which would lead to wide acceptance by the public, industry, and
+the governments.
+In the transportation sector, hydrogen-fueled internal combus-
+tion engines and fuel cells can possibly be used together with
+battery electric vehicles to reach the true greenization of all land,
+air, and water transportation ( Maleki et al., 2016 ). Fuel cell vehicles
+are also reported to have some advantages over battery electric
+vehicles such as lower investment costs and quicker fueling and
+refueling. In addition to transportation, signi ﬁcant quantities of
+hydrogen are utilized as feedstock during methanol re ﬁning and
+production, ammonia synthesis, and iron and steel industry. Pro-
+ducing hydrogen from clean and sustainable sources could have a
+direct impact on the greenization of these industries as well
+(Mehrpooya et al., 2017 ). Hydrogen can also provide heating,
+cooling, and power to buildings by using the existing natural gas
+infrastructure. The literature estimates that in the near future, there
+might be entire cities converting to solely hydrogen based heating
+and cooling ( Gao et al., 2017 ). Last but not least, hydrogen can also
+become a crucial renewable energy storage medium and if neces-
+sary can be used for clean electricity production. With hydrogen, it
+is possible to store and transport renewable energies effectivelyover long distances and time periods ( Beheshti et al., 2016 ). For that
+reason, hydrogen is a fundamental component during the transi-
+tion to 100% renewable energy systems to eliminate global
+warming.
+In this study, a thorough evaluation of the long-term potential of
+hydrogen production systems to combat global warming is pre-
+sented along with a roadmap to tackle the signi ﬁcant challenges
+and threats to a well-developed hydrogen economy. Hydrogen
+production systems have the potential to greenize all end users ofRenewable 
+energy 
+integration• Flexible systems
+• Increased accessibility
+• Enhanced resilience
+• Multigenerational options
+• Reduced monopoly
+• Improved efficiency
+Decarbonization 
+of energy 
+systems• Cleaner transportation
+• Cleaner industrial processes
+• Cleaner outputs to meet the needs
+• Renewable feedstock to all sectors
+• Reduced environmental impact
+• Increased sustainability
+Fig. 1. Hydrogen's critical roles during the energy transition to combat global
+warming.C. Acar, I. Dincer / Journal of Cleaner Production 218 (2019) 835 e849 836
+the energy sector such as transportation, industry, buildings and so
+on and hydrogen can make well-developed renewable energy
+systems a practical option for all end users of the energy sector. For
+this reason, this study intends to use the 3S (Source-System-Ser-
+vice) approach to hydrogen production systems and aims to discuss
+the sustainability of novel hydrogen production, storage, distribu-
+tion, and end use options. In the open literature, there is a limited
+number of studies comparatively assessing different hydrogen
+production sources and systems and hydrogen storage options by
+using different technical, social, environmental, and economic
+criteria. This study is to ﬁrst to provide a broader assessment
+perspective to all three aspects of hydrogen options: (i) hydrogen
+production sources, (ii) hydrogen production systems, and (iii)
+hydrogen storage systems by using 17 different perspective criteria
+to comparatively assess their economic, environmental, social, and
+technical performance as well as reliability. Another critical goal of
+this study is to provide a guide to the industry, academia, and the
+governments to combat global warming with the help of hydrogen
+production systems. Therefore, in the end, key research needs and
+directions and transition steps toward a fully developed hydrogen
+economy is provided.
+2. 3S approach to hydrogen
+In this section, a 3S approach introduced by Dincer and Acar
+(2015a) is applied to hydrogen energy systems. For a truly sus-
+tainable approach to combat global warming, hydrogen energy
+systems must be considered from source including all energy and
+material sources to a system including hydrogen production, stor-
+age, and distribution systems and ﬁnally to service including
+different end-use options such as fuel cells, internal combustion
+engines, and so on ( Walker et al., 2016 ). This approach is depicted in
+Fig. 2 .
+By using the approach provided in Fig. 2 , the potential of
+hydrogen energy systems to combat global warming is evaluated
+and thoroughly discussed. In this study, hydrogen energy systems
+are considered as the key to sustainability and hydrogen is also
+considered a versatile fuel with practical advantages for a broadvariety of end-use applications such as transportation, industrial
+processes, residential applications, buildings, etc. When consid-
+ering hydrogen in future energy systems, a realistic approach is
+taken into account. The approach used in this study does not
+consider ﬁctional solutions in imaginary case studies. Instead, this
+study only considers the existing systems both in large and small
+scales, their scalability, potentials, strengths, weaknesses, research
+challenges and needs, and possible future directions.
+In this study, the aim is to identify and discuss hydrogen's role in
+energy systems to combat global warming. For this reason, aroadmap is presented to achieve fully developed and deployed
+hydrogen energy systems. In addition, within the scope of the 3S
+approach; the necessary short-, medium-, and long-term mile-
+stones are discussed and investment requirements for wide-
+deployment of hydrogen energy systems are identi ﬁed for
+hydrogen production, storage, delivery, and end use systems for a
+sustainable future.
+Eliminating the negative impacts of global warming is essential
+for a sustainable future ( Creutzig, 2016 ). In hydrogen energy sys-
+tems, the ﬁrst point to look at should be the source selection
+(Sharma and Ghoshal, 2015 ). In order to be truly sustainable and
+environmentally benign, hydrogen should be produced from clean,
+abundant, reliable, and affordable energy and material sources
+(Hosseini et al., 2015 ). In cases where the source is not continuous, a
+well-developed storage system must be integrated into the
+hydrogen production network ( Sethia and Sayari, 2016 ). Renew-
+ables seem to be the most advantageous sources for hydrogen
+production systems ( Shaner et al., 2016 ). However, most of the
+renewables are not available in large scale energy systems due to
+cost issues, therefore, more traditional systems (i.e., fossil fuel
+powered processes) can be used for hydrogen production withproper carbon capture and emissions control during the initial part
+of the transition to a well-developed hydrogen economy ( Gradisher
+et al., 2015 ). In the course of this period, advancements in material
+sciences and technology are expected to lower the cost, enhance
+the ef ﬁciency and enable the possibility of large-scale operations
+for renewable-based hydrogen energy systems ( Nastasi and Basso,
+2016 ). When affordable, reliable, clean, and ef ﬁcient renewable-
+based hydrogen systems are available on larger scales, there will
+be a faster transition from fossil fuels to renewables for better
+sustainability ( Shaﬁei et al., 2015 ).
+Selecting the most suitable energy and material sources is
+essential in hydrogen energy systems ( Yilmaz et al., 2016 ). How-
+ever, if not accompanied by the proper system(s), it might not be
+possible to get the most optimum outcome from the selected
+source(s) ( Bundhoo and Mohee, 2016 ). In hydrogen energy systems,
+the “system ”step should be ef ﬁcient, clean, reliable, safe, available
+in small and large scales, and applicable to portable and stationary
+systems ( Asghar et al., 2015 ). The “system ”step can be divided into
+three categories for hydrogen energy: hydrogen production sys-
+tems, hydrogen storage systems, and hydrogen delivery (distribu-
+tion) systems ( Sinigaglia et al., 2017 ). Hydrogen production systems
+can be classi ﬁed by the use of primary energy type; biological,
+electrical, electrochemical, electrothermal, photochemical, photo-
+electrochemical, photonic, thermal, and thermochemical are some
+of the most commonly used alternatives in the literature ( Dincer
+and Acar, 2015b ). It should be noted that there could be addi-
+tional novel options in the future depending on the advancements
+in material science and technology ( Choi et al., 2015 ). Hydrogen
+delivery systems connect end users and hydrogen production sys-
+tems ( Demir and Dincer, 2018 ). The most commonly used hydrogen
+delivery options are storage tanks, pipelines, and vessels ( Singh
+et al., 2015 ). The expectation from these systems can be listed as
+the ability to support varying demand, applicability to both small
+and large scales, reliability, safety, and zero or minimal losses
+(Ogden et al., 2018 ). In hydrogen storage systems, compressed gas,
+cryogenic liquid, and metal hydrides are the most commonly used
+options ( Aneke and Wang, 2016 ). In addition, depending on the
+advancements in materials science and technology, novel hydrogen
+storage options can be introduced in the future ( Liu et al., 2016 ). The
+key expectations from hydrogen storage systems can be listed as
+(Chanchetti et al., 2016 ):
+/C15high gravimetric and volumetric energy density
+/C15high power outputSource• Renewables (e.g., solar, wind, hydro, etc.)
+• Nuclear• Fossil fuels
+System• Hydrogen production systems
+• Electrical, thermal, photonic, hybrid, etc .
+• Hydrogen storage systems
+• Gas, liquid, metal hydrides, etc.
+• Hydrogen delivery systems
+Service• Power
+• Heating
+• Cooling• Fresh water
+• F
+uels
+Fig. 2. 3S approach to hydrogen energy systems.C. Acar, I. Dincer / Journal of Cleaner Production 218 (2019) 835 e849 837
+/C15low energy and power cost
+/C15zero or minimal emissions and waste
+/C15safe operation
+/C15accessibility
+/C15ease of use
+/C15efﬁcient operation
+/C15low-performance degradation
+/C15long lifetime
+/C15minimal or zero loss during charging/storage/discharging
+Hydrogen has a very wide range of applications that could be
+beneﬁted by different end-user types which are considered as the
+service step of the hydrogen energy systems. The service step of
+hydrogen energy systems can be grouped based on the end user
+types such as an energy source for transportation ( Ahmed et al.,
+2016 ), industry ( Otto et al., 2017 ), residential applications ( Maleki
+et al., 2017 ), power generation ( Prananto et al., 2017 ), and heating
+(Dodds et al., 2015 ) and cooling ( Khani et al., 2016 ) purposes. In
+addition, hydrogen can be used as a material feedstock in industrial
+processes, for instance in ammonia ( Bicer et al., 2016 ) and meth-
+anol production processes ( Bellotti et al., 2017 ) and in the steel
+industry ( Rao et al., 2019 ).
+Currently, the transportation industry relies almost completely
+on fossil fuels, and as a result, the transportation sector contributes
+to more than 20% of the global CO 2emissions ( Van Fan et al., 2018 ).
+If it is not greenized, the transportation sector's share on global CO 2
+emissions is expected to increase in the future with the increase inglobal population and mobility ( Creutzig et al., 2015 ). Hydrogen
+produced, stored, and distributed by following the 3S approach in a
+sustainable manner could signi ﬁcantly lower the emissions of the
+transportation sector ( Siyal et al., 2015 ). The expectations from
+hydrogen energy systems in the transportation sector can be listed
+as a long driving range, ﬂexible operation, and high performance
+(Moliner et al., 2016 ). Hydrogen can be used in fuel cells and in-
+ternal combustion engines to meet the energy demands of the
+transportation industry in a sustainable manner ( Maniatopoulos
+et al., 2015 ).
+The industry is the second largest energy consumer, following
+the power sector. Currently, the industry contributes to more than
+30% of the global ﬁnal energy consumption ( Fais et al., 2016 ). Due to
+the heavy reliance on fossil fuels, the industrial energy consump-
+tion contributes to around 25% of the global CO
+2emissions ( Schandl
+et al., 2016 ). The ﬁve industries with the highest energy con-
+sumption from the highest to lowest consumption are iron and
+steel (28% of the industrial energy consumption), chemicals, pet-
+rochemicals, and re ﬁning (14% of the industrial energy consump-
+tion), cement (8% of the industrial energy consumption), aluminum
+(5% of the industrial energy consumption), and pulp and paper (5%
+of the industrial energy consumption) industries ( Sorrell, 2015 ). A
+major reason behind this high energy demand of these industries is
+their high-grade heat requirement ( Schulze et al., 2016 ). In these
+industries, hydrogen could be a lot more affordable, clean, and
+efﬁcient energy option than using fossil fuels or electricity to
+generate high-grade heat ( Bakenne et al., 2016 ).
+The energy demand of both residential and commercial build-
+ings are very high due to their heating, cooling, and power re-
+quirements ( Reinhart and Davila, 2016 ). Some major energy
+consuming processes in buildings are space heating and cooling,
+hot water, lighting, appliances, and so on ( Yarbrough et al., 2015 ).
+The energy demand of buildings is a lot higher than the trans-
+portation sector and almost as high as the energy demand of the
+industry in total ( Arteconi et al., 2017 ). This high energy demand is
+mainly met by fossil fuels which is a reason behind the negative
+impact of buildings on global warming ( Delmastro et al., 2017 ). To
+tackle this issue, buildings must be greenized with highly ef ﬁcientenergy systems ( Frayssinet et al., 2018 ). Greenization of buildings
+can be accomplished via waste heat recovery (i.e., district heating/
+cooling combined with traditional power plants), heat pumps, and
+transitioning to hydrogen energy ( Wong et al., 2015 ). Hydrogen has
+the advantage to be easily integrated into the existing natural gas
+network with minimal modi ﬁcation ( Alanne and Cao, 2017 ).
+Hydrogen can effectively provide heating, cooling, power, drying,
+and fresh water to the buildings in a safe, reliable, and affordable
+manner ( Nastasi and Di Matteo, 2017 ).
+In addition to their signi ﬁcant energy consumption, chemical
+and petrochemical industries are using large quantities of hydrogen
+as an industrial feedstock ( Ball and Weeda, 2015 ). Among these
+industries, ammonia production for urea and other fertilizers is the
+largest consumer of hydrogen making about 51% of the total in-
+dustrial hydrogen demand ( Kuntke et al., 2017 ). Second highest
+hydrogen consumer as industrial feedstock is the re ﬁning industry
+where hydrogen is used for hydrocracking and hydrotreating such
+as desulfurization which makes around 31% of the total industrial
+hydrogen demand ( Speight, 2016 ). When combined together,
+ammonia and re ﬁning industries consume more about 82% of the
+total industrial hydrogen demand ( Setoyama et al., 2017 ). The
+remaining consumers of hydrogen as an industrial feedstock are
+methanol production, fuel processing, glass production, and so on
+(Hanley et al., 2018 ). With the global population increase and rising
+standards of living the demand for hydrogen as industrial feedstock
+is expected to keep increasing as well ( Simon et al., 2015 ). There-
+fore, it is essential for the industry that the hydrogen supply comes
+from clean sources to reduce the negative impact of the industry on
+global warming ( Liu et al., 2015 ). Further greenization of the in-
+dustry could be achieved by substituting carbon with hydrogen as a
+reductant in steel production ( Karakaya et al., 2018 ). In addition,
+hydrogen could be used to capture the industrial byproduct CO 2
+into commercially viable products such as methanol ( Liu and Liu,
+2015 ). Hydrogen's role as an enabler of carbon recycling in the in-
+dustry is shown in Fig. 3 .
+3. Review methodology of hydrogen options
+In this study, recent data from the literature on the environ-
+mental, economic, social, and technical performance of hydrogen
+production sources and systems as well as hydrogen storage
+Carbon utilization
+Product (e.g., 
+methanol)
+Use of excess CO 2
+as an input in 
+other industriesTransfer of 
+excess CO 2 to 
+carbon capture 
+systemsCarbon capture 
+and storage
+Fig. 3. Hydrogen's role as an enabler of carbon recycling in the industry.C. Acar, I. Dincer / Journal of Cleaner Production 218 (2019) 835 e849 838
+options are reviewed and comparatively evaluated. Here, the
+studies are selected ﬁrstly based on their publication year: more
+speci ﬁcally, the studies published before 2015 are not taken into
+review process as the aim is to evaluate the most recent data in the
+literature. ScienceDirect database is used during the review process
+and the content of publications are categorized based on the
+following criteria:
+/C15Studies focusing on hydrogen production
+o Studies evaluating hydrogen production sources
+o Studies evaluating hydrogen production systems
+/C15Studies focusing on hydrogen storage systems
+These studies are further classi ﬁed and selected based on their
+evaluation criteria. In this study, publications focusing on one or
+more of the following criteria when evaluating hydrogen produc-
+tion and storage options are selected for sustainability analysis.
+These criteria are:
+/C15Economic performance
+o Initial cost (USD/kg H 2)
+o Running cost (USD/kg H 2)
+/C15Environmental performance
+o GHG emissions (kg CO 2eq./kg H 2)
+o Land use (m2land requirement/kg H 2)
+o Water discharge quality
+o Solid waste generation (kg solid waste/kg H 2)
+/C15Social performance
+o Impact on public health
+o Employment opportunities
+o Training opportunities
+o Public acceptance
+/C15Technical performance
+o Energy ef ﬁciency (%)
+o Exergy ef ﬁciency (%)
+o Process control
+o Raw material input (kg raw material/kg H 2)
+/C15Reliability
+o Dependence on imported resources
+o Predictability
+o Scalability
+Detailed information on the selected criteria and how they affect
+the overall sustainability analysis of the selected hydrogen options
+are given in the next section. Here, the most recent data found in
+the literature are provided along with their scope and key ﬁndings
+(Table 1 ). When selecting the data from the literature, ﬁrst
+“hydrogen production ”keyword is used in ScienceDirect and all
+review articles are retrieved, resulting 39,081 published articles.
+After ﬁltering the studies published before 2015, the remaining
+studies (14,253) are narrowed down by using classi ﬁcation criteria
+as “energy ”and “sustainability ”. For comparison purposes, the
+studies which comparatively assess at least four different hydrogen
+production sources or systems by using at least four different
+criteria are selected. In addition, the studies which do not explain
+the evaluation procedure or cite the sources of any previouslypublished results are eliminated. The literature review process has
+led to four sources which are presented in Table 1 based on their
+selected hydrogen production sources and systems and perfor-
+mance criteria.
+Table 2 shows the selected hydrogen storage studies along with
+their scope and performance evaluation criteria. Here, “hydrogen
+storage ”keyword is used in ScienceDirect and the results arerestricted to review articles, and 18,157 results are retrieved. Next,
+the articles published before 2015 are eliminated and as a result,
+the number of articles is lowered to 7510. In the next step, “energy ”
+and “sustainability ”keywords are used to further narrow down the
+results and the remaining articles are scanned through to select the
+studies with useful data on at least ﬁve different hydrogen storage
+options which are comparatively assessed by using at least ﬁve
+different performance criteria. Furthermore, the studies which do
+not describe the assessment methodology clearly or cite the sour-
+ces of any previously published results are not taken into account.
+As a result of this process, six literature sources are selected which
+are listed in Table 2 based on their evaluated hydrogen storage
+systems and performance criteria.
+4. Sustainability analysis of hydrogen production options
+In this study, economic, social, environmental, and technical
+performance and reliability of hydrogen production sources and
+systems and hydrogen storage options are comparatively assessed.
+The selected options are shown in Fig. 4 .
+In economic performance evaluation criteria, initial and running
+costs are taken into account. The initial cost is the capital cost
+requirement which is comparatively assessed in the literature
+based on USD/kg hydrogen. The running cost includes operation
+and maintenance costs which are also given in terms of USD/kg
+hydrogen. The overall economic performance ranking is calculated
+by taking the average of initial and running cost rankings.
+The environmental performance comparison is conducted
+based on GHG emissions, land use, water discharge quality, andsolid waste generation. GHG emissions are given in terms of kg CO
+2
+eq./kg hydrogen production and land use is the amount of land arearequired to produce or store hydrogen (m
+2land requirement/kg
+hydrogen). Water discharge quality is ranked by experts in the
+literature within a range of 0 e10.0 means low quality which in-
+dicates the selected option has polluted water discharge or the
+discharge water is too hot or too cold which disturbs the ecosystem.
+On the other hand, 10 means the best option with clean water
+discharge at closer temperatures to the environmental state. Solid
+waste generation is given in terms of kg solid waste generated/kg
+hydrogen production. The overall environmental performance
+ranking is calculated by taking the average of GHG emissions, land
+use, water discharge quality, and solid waste generation rankings.
+The literature data used in this study are taken from the references
+mentioned in Tables 1 and 2 .
+Impact on public health, employment and training opportu-
+nities and public acceptance are the social performance criteria.
+These social performance criteria are ranked by experts in the
+literature. The social performance criteria rankings are also pro-
+vided in the 0 e10 range where 0 indicates a high negative impact
+on public health, or no employment or training opportunities or no
+public acceptance. On the contrary,10 means no negative impact on
+public health, or vast employment or training opportunities or full
+public acceptance. The overall social performance ranking is
+calculated by taking the average of impact on public health,
+employment opportunities, training opportunities, and public
+acceptance rankings.
+In technical performance criteria, energy and exergy ef ﬁciencies,
+process control, and raw material input data are taken into account
+by using the numerical results and expert performance evaluations
+provided in the literature. Energy ef ﬁciency rankings are between
+0 and 10 and the evaluation is done based on the following
+equation:C. Acar, I. Dincer / Journal of Cleaner Production 218 (2019) 835 e849 839
+Energy efficiency ranking ¼Energy content of the desired product
+Energy content of the input
+/C210
+(1)
+Similarly, exergy ef ﬁciency rankings are between 0 and 10 and
+the calculations are done as shown in the equation below:
+Exergy efficiency ranking ¼Exergy content of the desired product
+Exergy content of the input
+/C210
+(2)
+Process control rankings of the experts use the 0 e10 scale as
+well, 0 meaning hardest process control and 10 indicating easiest
+process control. Raw material input includes any material
+requirement of the selected option from clean water to catalysts,
+biomass etc. The unit of raw material input is kg raw material input/kg hydrogen production. The overall technical performance ranking
+is calculated by taking the average of energy ef ﬁciency, exergy ef-
+ﬁciency, process control, and raw material input rankings.
+Dependence on imported resources, predictability, and scal-
+ability are the availability and reliability criteria. These selected
+performance indicators are ranked by experts in the literature.
+Similarly, rankings are also provided in 0 e10 range where 0 in-
+dicates sole dependence on imported resources or no predictability
+or no scaling options. On the other hand, 10 means no dependence
+on imported resources or extensive predictability or numerous
+available scaling options. The overall availability and reliability
+ranking is calculated by taking the average of dependence on im-
+ported resources, predictability, and scalability rankings.
+In this study, the data from the literature are taken as a basis.
+Water discharge quality, impact on public health, employment and
+training opportunities, public acceptance, and process control,
+dependence on imported resources, predictability, and scalability
+are already ranked within 0 e10 scale by experts in the literature.
+The data for the remaining categories are taken from the literatureTable 1
+Selected data sources from the recent literature used in the sustainability analysis of hydrogen production options in this study.
+Source Hydrogen
+Production SourcesHydrogen Production
+SystemsPerformance Criteria Notes
+Hosseini and Wahid
+(2016)Wind
+SolarHydroGeothermalNuclear
+Natural gas
+BiomassCoalOilElectrolysis
+ReformingGasiﬁcation
+Partial oxidationFermentation
+Pyrolysis
+ThermochemicalcyclesCost (initial and running)
+Efﬁciency (energy and
+exergy)MaturityPredictability
+Scalability
+Dependence on importedsourcesRaw material inputProcess controlPublic acceptanceOverview of the state-of-the-art hydrogen production technologies using
+renewable and sustainable sources
+Dincer and Acar
+(2017)Coal
+Natural gas
+Solar
+WindHydroGeothermalBiomassNuclearThermolysis
+Thermochemical
+Photocatalysis
+PhotoelectrochemicalBiophotolysisPhotofermentationArtiﬁcial
+photosynthesisEmissions
+Efﬁciencies (energy and
+exergy)
+Cost (initial and running)Renewability (raw materialuse)Staff (employment/trainingopportunities)ScalabilitySafety
+Support (public acceptance)Comparative assessment of selected hydrogen production sources and
+systems from the 18S point of view
+Nikolaidis and
+Poullikkas (2017)Nuclear
+SolarWindBiomassElectrolysis
+ThermochemicalPyrolysisGasiﬁcation
+PhotolysisDark fermentationPhotofermentation
+Thermolysis
+PhotoelectrolysisProduction rate
+Capacity factor (%)Cost (initial and running)EfﬁciencyTechnical and economic evaluation of different hydrogen production
+sources and methods
+Acar et al. (2018) Fossil fuels
+WindSolarNuclearElectrolysis
+ThermochemicalcyclesPhotoelectrochemicalcellsInitial and running costs
+GHG emissionsLand useWater discharge qualitySolid waste generation
+Impact on public health
+Employment and trainingopportunitiesPublic acceptanceEnergy and exergyefﬁciencies
+Process controlRaw material input
+Dependence on imported
+resourcesPredictabilityScalabilityComparative investigation of the sustainability of hydrogen production
+systems
+C. Acar, I. Dincer / Journal of Cleaner Production 218 (2019) 835 e849 840
+and ranked and normalized to 0 e10 scale. For categories that are
+aimed to be minimized such as initial and running costs, GHGemissions, land use, solid waste generation, and raw material input:
+Ranking ¼maximum /C0dataselected option
+maximum /C0minimum/C210 (3)
+Here, maximum and minimum indicate the highest and lowest
+initial and running costs, GHG emissions, land use, solid waste
+generation, and raw material input among selected hydrogen pro-
+duction sources and systems and storage options. The data selected
+option stands for the initial or running cost, GHG emissions, land use,
+solid waste generation, or raw material input of the selected
+hydrogen production source or system or storage option. Theprocedure of normalizing energy and exergy ef ﬁciency rankings are
+given in Equations (1) and (2) , respectively. The primary aim of the
+sustainability assessment procedure explained in this section is to
+provide a consistent and clear ranking methodology for the readers
+which would effectively rank all selected options within 0 e10 scale
+where 0 indicates the least desired point and 10 indicates the ideal
+scenario in terms of sustainability.
+5. Results and discussion
+In this section, economic, environmental, social, and technical
+performance and reliability of hydrogen production sources and
+systems, storage and end-use technologies are comparatively
+assessed based on the recent ﬁndings in the literature. In economic
+performance, initial (capital) cost and running (operating and
+maintenance) cost criteria are taken into account. GHG emissions,
+land use, water discharge quality, and solid waste generation are
+the environmental performance criteria. The indicators of social
+performance are the impact on public health, employment oppor-
+tunities, training opportunities, and public acceptance. Energy andexergy ef ﬁciencies, process control, and raw material input re-
+quirements are considered in the technical performance evalua-
+tion. And last, dependence on imported resources, predictability,
+and scalability are the reliability criteria. The selected options are
+assigned scores between 0 and 10, based on their performance. In
+all cases, 0 means poor performance such as high costs, high
+emissions, and land use, and more damage to the environment,
+high negative impact on the society or less social bene ﬁts, low ef-
+ﬁciencies, high material requirements, high dependence on im-
+ported sources, less predictability, and lack of scalability. On the
+other hand, 10 means ideal performance such as low costs, lowTable 2
+Selected data sources from the recent literature used in the sustainability analysis of hydrogen storage options in this study.
+Source Hydrogen Storage Systems Performance Criteria
+Niaz et al. (2015) Compressed gas
+Cryogenic liquidChemical hydridesMetal hydridesNanomaterialsInitial and running costs
+Area requirement (land use)Waste generationEmployment and training opportunitiesEnergy and exergy ef ﬁciencies
+Raw material input
+Predictability
+Zhang et al. (2015) Compressed gas
+Cryogenic liquidChemical hydridesMetal hydridesNanomaterialsEmployment and training opportunities
+EmissionsSafetyScalabilityAcceptability
+Zhang et al. (2016) Chemical hydrides
+Metal hydrides
+Compressed gas
+Cryogenic liquidNanomaterialsEmissions
+Employment and training opportunities
+Safety
+Initial and running costPredictability
+Reu
+bet al. (2017) Chemical hydrides
+Metal hydridesCompressed gasCryogenic liquidNanomaterialsEmissions
+Water use and dischargeSafety (health impact)AcceptabilityProcess control
+Imported resources
+Scalability
+Ren et al. (2017) Chemical hydrides
+Metal hydridesNanomaterialsCompressed gasCryogenic liquidResource requirements
+Area requirementEmployment and training opportunitiesAcceptabilityEnergy and exergy ef ﬁciencies
+Nagpal and Kakkar (2018) Chemical hydrides
+Metal hydrides
+NanomaterialsCompressed gasCryogenic liquidImported resources
+Acceptability
+ControlArea requirementSafetySourcesBiomass
+GeothermalHydroNuclearSolar
+Wind
+SystemsBiological
+Electrical
+Photonic
+Thermal
+Stora ge
+Chemical hydridesCompressed gasCryogenic liquidMetal hydrides
+Nanomaterials
+Fig. 4. Selected hydrogen production sources and systems and storage options.C. Acar, I. Dincer / Journal of Cleaner Production 218 (2019) 835 e849 841
+emissions, and land use, and less damage to the environment, low
+negative impact on the society or more social bene ﬁts, high ef ﬁ-
+ciencies, less material requirements, less dependence on imported
+sources, high predictability, and scalability.
+In the ﬁrst step, the economic, environmental, social, and
+technical performance of energy sources for hydrogen production is
+comparatively assessed. Selected energy sources for hydrogen are
+biomass, geothermal, hydro, nuclear, solar, and wind. The perfor-
+mance data of the selected sources are gathered from the sources
+mentioned in Table 1 . The environmental performance ranking
+results of the selected hydrogen production sources are given in
+Fig. 5 and the overall performance results are presented in Fig. 6 .
+The environmental performance ranking results show that in terms
+of GHG emissions, the wind is the most favorable source and
+biomass has the highest emissions. In terms of land use, solar re-
+quires the least area and nuclear has the maximum land area re-
+quirements. Solar and wind are the most favorable in the water
+discharge quality category while geothermal and nuclear seem to
+have the lowest water discharge qualities. In terms of solid waste
+generation, nuclear has the highest solid waste and solar has the
+lowest. The results show that solar has the highest average per-formance (7.40/10) as hydrogen production source, followed by
+hydro and wind (6.00/10), biomass (5.80/10), nuclear (4.60/10), and
+geothermal (4.60/10). Solar based hydrogen production has sig-
+niﬁcant advantages since all solar-based processes are taken into
+account such as photoelectrochemical cells, solar thermochemical
+cycles, photobiological processes, and so on. Most of these pro-
+cesses obviously have a very low negative impact on the land, air,
+and water sources, highly reliable, and have high social perfor-
+mances, such as the low negative impact on the public health. In
+order to make solar based hydrogen production processes
+competitive with traditional systems, their economic performance
+must be enhanced by lowering initial and maintenance costs. Both
+geothermal and hydro have some risks associated to impact on the
+natural habitat and water discharge quality, and these issues reduce
+their performance score. Nuclear has a solid waste risk and public
+acceptance concerns and if these issues are resolved along with
+lowering the costs, it can be a promising source of hydrogen pro-
+duction for a sustainable future.
+Fig. 5 shows that in terms of GHG emissions, among the pro-
+posed options, the wind option seems to be the most environ-
+mentally benign and the efforts should focus on to lower the GHGemissions of biomass. In terms of land use, solar seems to be the
+best option and nuclear seems to require the largest area due to
+extensive safety and control requirements such as cooling and solid
+waste and pressure control. Waste discharge quality rankings show
+that solar and wind have the least negative impact on clean water
+reserves as opposed to geothermal and nuclear. Geothermal op-
+tion's negative impact is due to the risk of polluting the under-
+ground water sources. Nuclear, on the other hand, has a low
+ranking because of the temperature of the wastewater coming from
+cooling towers directly sent to lakes and rivers which harms the
+water ecosystem. Solid waste generation category shows that solar
+is the most environmentally benign option while nuclear, due to
+the radioactivity of its solid waste, has the lowest ranking. When all
+environmental performance criteria are taken into account, solar
+seems to be the most environmentally benign option and nuclear
+has the lowest environmental performance ranking. Overall, hydro
+has the highest performance in the economic evaluation category
+since it is a well-developed and scaled-up technology. The wind has
+the lowest economic performance as hydrogen production source.
+From the social and technical dimensions, the geothermal option
+has the lowest rankings. both solar and wind have high socialperformance rankings since they end up with the lowest negative
+impact on public health, and they are further considered to have
+major new job opportunities.
+Biological, electrical, photonic, and thermal hydrogen produc-
+tion options are comparatively investigated to present the recent
+status of the “System ”step of the hydrogen energy systems. In
+Table 3 , some advantages and challenges of the selected systems
+are presented. The environmental performance ranking results of
+the selected hydrogen production systems are given in Fig. 7 . The
+environmental performance ranking results show that in terms of
+GHG emissions, photonic systems are the most favorable options. In
+terms of land use, photonic and electrical hydrogen production
+systems are advantageous. Photonic systems are the most favorable
+in the water discharge quality category. And the overall technical,
+economic, environmental, and social performances and the reli-
+ability of the selected systems are presented in Fig. 8 . The perfor-
+mance data of the selected hydrogen production systems are
+gathered from the sources mentioned in Table 1 . The results show
+that electrical hydrogen production systems have the highest per-
+formance (7.60/10), followed by thermal-based systems (6.60/10),
+photonic systems (5.40/10), and biological processes (4.80/60). In
+012345678910
+GHG emissions Land use Water discharge
+qualitySolid waste
+generationPerformance rankingBiomass Geothermal Hydro Nuclear Solar Wind
+Fig. 5. Environmental performance ranking results of the selected hydrogen production sources.C. Acar, I. Dincer / Journal of Cleaner Production 218 (2019) 835 e849 842
+addition to electrical hydrogen production systems, the economic
+performance evaluations of all selected systems may signi ﬁcantly
+be enhanced by lowering the capital cost of renewable-basedhydrogen production systems. Since most of the selected systems
+can be integrated with renewable and clean sources, their envi-
+ronmental performance appears to be satisfactory. The biological0246810Economic Performance
+Environmental Performance
+SocialPerformance TechnicalPerformanceReliabilityBiomass
+Geotherma l
+Hydro
+Nuclear
+Solar
+Wind
+Ideal
+Fig. 6. Performance comparison results of selected energy sources for hydrogen production.
+Table 3
+Main advantages and challenges of the selected hydrogen production systems.
+System Advantages Challenges
+Biological Potentially large resources Slow hydrogen production, large area requirements, research needed to ﬁnd
+the most suitable biological organism for optimum production and large-scaleproduction
+Electrical Commercial availability, proven technology, well-understood process,
+modularity, highly pure production, applicable to small and large scales as well
+as stationary and portable needsCompetition with green or renewable electricity
+Photonic Environmentally benign process, abundant source, less damage to health, good
+efﬁciencies, applicable in small and large scales and can be portable or
+stationaryHigh cost, groundbreaking research needed to ﬁnd novel materials for the
+effective and affordable caption of solar energy
+Thermal Low cost, appropriate for large-scale production, less damage to the
+environment, can take advantage of the industrial waste heatComplex process, research is needed to develop corrosion and heat-resistant
+materials
+012345678910
+GHG emissions Land use Water discharge
+qualitySolid waste
+generationPerformance rankingBiological Electrical Photonic Thermal
+Fig. 7. Environmental performance ranking results of the selected hydrogen production systems.C. Acar, I. Dincer / Journal of Cleaner Production 218 (2019) 835 e849 843
+hydrogen production systems also have the reliability issue since
+controlling and predicting the behavior of biological organisms
+may become quite challenging.
+Fig. 7 shows that in terms of environmental performance
+criteria, including GHG emissions, land use, water discharge qual-
+ity, and solid waste generation, thermal hydrogen production op-
+tions are seen to be most harmful. However, the thermal hydrogen
+production option has the highest social performance. In all envi-
+ronmental performance categories, photonic (solar based)
+hydrogen production options have the highest performance rank-
+ings, therefore, are considered to be the most environmentally
+benign options. On the other hand, photonic hydrogen production
+has the lowest economic rankings since this technology is
+comparatively new and more technological advancements are
+needed to lower its initial cost. In terms of economic, technical, and
+reliability performances; electrical based hydrogen production
+options are the most promising due to well-developed technology
+and the long history of water electrolysis. The biological hydrogen
+production options are seen as the least preferred options in termsof technical performance and reliability because microorganisms
+are seen to be harder to control, regulate, and optimize. Therefore,
+it is harder to estimate/quantify the production rate and scale up
+hydrogen production via biological options.
+InTable 4 , the advantages and challenges of the selected
+hydrogen storage systems are listed and compared which are
+chemical hydrides, compressed gas, cryogenic liquid, metal hy-
+drides, and nanomaterials. The environmental performance
+ranking results of the selected hydrogen storage systems are giveninFig. 9 where the environmental bene ﬁts of nanomaterials can
+clearly be seen. In Fig. 10 , comparative assessment results of eco-
+nomic, environmental, social, and technical performance and reli-
+ability of selected storage systems are presented. These results are
+gathered from the recent literature provided in Table 2 which show
+that among the selected storage options, nanomaterials have the
+highest score with 8.40/10 average, followed by chemical and metal
+hydrides, with average scores of 6.80/10 and 6.60/10, respectively.
+Cryogenic storage options have the lowest average score (3.40/10),
+followed by compressed gas (6.00/10). The reason behind the poor
+performance of cryogenic liquids are the extreme temperature re-
+quirements and associated safety risks which increase their costs as
+well. In addition, the loss of hydrogen is very high in this option,
+especially compared to the other selected options. In order to
+minimize such losses, the cryogenic systems must be highly insu-
+lated which also increase the complexity and cost of the storage
+option. Therefore, cryogenic storage option has the lowest perfor-
+mance rankings in all categories: economic, environmental, social,
+technical, and reliability. Similar to the cryogenic option, thecompressed gas has some operational requirements due to high
+operating pressures which may bring a safety issue that effects
+system cost and social performance as well. Overall, nanomaterials
+appear to be a promising option for future hydrogen energy sys-
+tems. This is because nanomaterials emit the least amount of
+harmful solid, liquid, or gaseous waste; have the highest ef ﬁ-
+ciencies with minimal losses; therefore high reliability; and
+possible job creations.
+In this section, the comparative performance evaluation results0246810Economic Performance
+Environmental Performance
+SocialPerformance TechnicalPerformanceReliabilityBiological
+Electrical
+Photonic
+Thermal
+Ideal
+Fig. 8. Performance comparison results of selected hydrogen production systems.
+Table 4
+Main advantages and challenges of the selected hydrogen storage systems.
+Storage option Advantages Challenges
+Chemical
+hydrideWell understood, reversible reactions and compact
+designWaste generation and logistics, infrastructural change needs
+Compressed
+gasExisting and well-developed technology, availability and
+low costVery high pressures needed increasing safety issues and cost, lower storage densities compared
+to traditional fuels
+Cryogenic
+liquidExisting and well-understood technology, higher
+densities compared to compressed gasVery low temperatures needed increasing cost, loss of stored hydrogen, energy intensity of the
+process, lower densities compared to traditional fuels
+Metal hydride Safe and modular operation with wide applicability,
+relatively high densitiesRecycling of the storage material and waste issues
+Nanomaterials High energy densities At early research and development phase, costs yet to be decreasedC. Acar, I. Dincer / Journal of Cleaner Production 218 (2019) 835 e849 844
+of hydrogen production systems and sources and storage systems
+are presented and discussed. Here, the aim is to give a broad
+perspective on the current status and anticipated future research
+directions on hydrogen energy systems. By investigating the eco-
+nomic, environmental, social, technical performance and reliability
+of the components of hydrogen energy systems, the goal is to
+accelerate the transition to hydrogen economy to combat global
+warming. When produced, stored, and used in a sustainable
+manner, hydrogen could potentially greenize the industrial pro-
+cesses, residential applications, and transportation sectors.
+6. Future Directions
+Developing, constructing, and widely developing hydrogen en-
+ergy systems to meet the energy needs require signi ﬁcant in-
+vestments and innovative approaches to current energy systems
+along the entire hydrogen chain. A well-developed hydrogen chain
+has to meet the energy demands in all scales (e.g., small and large
+scales) and for all types of needs (e.g., stationary and portable). In
+addition, the 3S approach must be followed to develop thishydrogen chain including production, distribution, storage, retail,
+fueling infrastructure, and all end-use applications. The key
+research needs of the elements of the entire hydrogen energy chain
+are presented in Fig. 11 , respectively.
+Hydrogen production requires a signi ﬁcant amount of research
+to greenize existing hydrogen production systems. Currently,
+hydrogen production systems are heavily dependent on fossil fuels
+and the critical need is to switch to renewables to make hydrogen
+supply truly “carbon free ”. Most of the renewable hydrogen pro-
+duction systems have low ef ﬁciencies, high investment costs, or
+they are only available in small scale. Therefore, the essential need
+is to develop hydrogen production systems that are ef ﬁcient, cost-
+effective, and clean which can work off-grid in remote areas as well.
+In hydrogen production, use of non-renewable material and energy
+sources must be eliminated or minimized. In addition, novel
+hydrogen production systems must not have very high and low
+temperature or pressure requirements for safety and economic
+reasons.
+For wide use and high market penetration of hydrogen energy
+systems, hydrogen storage systems and hydrogen transportation,
+012345678910
+GHG emissions Land use Water discharge quality Solid waste generationPerformance rankingChemical hydride Compressed gas Cryogenic liquid Metal hydride Nanomaterials
+Fig. 9. Environmental performance ranking results of the selected hydrogen storage systems.
+0246810Economic Performance
+Environmental Performance
+SocialPerformance TechnicalPerformanceReliabilityChemical hydrid e
+Compressed gas
+Cryogenic liquid
+Metal hydride
+Nanomaterials
+Ideal
+Fig. 10. Performance comparison results of selected hydrogen storage systems.C. Acar, I. Dincer / Journal of Cleaner Production 218 (2019) 835 e849 845
+and distribution network should be strengthened. The research
+needs include enhancing the gravimetric and volumetric densities
+of hydrogen storage systems, developing affordable storage optionsat medium temperature and pressure ranges, reducing the charging
+and discharging times of storage systems, and identifying the op-
+timum strategies for stationary, portable, small, and large-scale
+applications. These items are related to sustainable hydrogen
+storage. In addition to these needs, recyclability and reuse of
+hydrogen storage mediums must be enhanced by increasing the
+lifetime of these materials. This can be done by ﬁnding novel ma-
+terials which do not have corrosivity and performance degradation
+issues and can store hydrogen in small spaces and lighter systems.
+It should be noted that these materials are also expected to become
+cost competitive with the existing elements in the traditional en-
+ergy systems. Hydrogen distribution is essential for broad range
+utilization of hydrogen which requires research and development
+to modify the existing natural gas pipelines for long distance
+hydrogen distribution with minimal losses. Currently, hydrogen is
+either transported as compressed gas or cryogenic liquid which are
+both expensive and not very ef ﬁcient. Any technological advance-
+ments to enhance the performance of hydrogen storage systems
+would impact the hydrogen distribution network performance in a
+positive manner as well. And last but not least, a well-developed
+distribution network with easily accessible fueling stations would
+greatly help the wide utilization of hydrogen by all types of end
+users. This requires signi ﬁcant cost reduction in hydrogen storage,
+transportation, and distribution networks which could lead the
+customers to prefer hydrogen energy systems in buildings and in-
+dustry as well as in the transportation systems.
+The research activities on hydrogen energy systems could
+eventually become a fundamental component of the transition
+from fossil fuels to clean energy systems to combat global warming.
+Hydrogen energy systems are required to have higher ef ﬁciencies
+and lower costs at larger scales which can be achieved via contin-
+uous improvements in materials science and technology. The cost
+of hydrogen energy systems has already been reduced signi ﬁcantly
+with the introduction of innovative renewable energy systems anddevelopments in some end-use applications of hydrogen such as
+fuel cells. Further cost reduction is needed to lower the cost of
+hydrogen production which could be attained by large-scalehydrogen production. The key research directions for wide
+deployment of hydrogen in different sectors are presented in
+Fig. 12 .
+The wide use of hydrogen in the transportation sector depends
+on the developments in fuel cell vehicles and hydrogen-fueled in-
+ternal combustion engines. In addition, the retail price of hydrogen
+has to be competitive with existing transportation fuels. In order to
+tackle issues related to global warming, hydrogen must be cleaned,
+transported, and stored in a clean, ef ﬁcient, safe, and affordable
+manner. The distribution network of hydrogen has to be well-
+developed, with adequate fueling stations which are easily acces-
+sible by end users. Onboard hydrogen storage systems' perfor-
+mance must be enhanced signi ﬁcantly while keeping hydrogen-
+fueled vehicles ’cost competitive with conventional vehicles. In
+addition, the ef ﬁciency of each item in the hydrogen energy system
+should be increased while keeping the safety of hydrogen-powered
+vehicles a priority.
+The research and development requirements to make hydrogenProduction• Large scale and efficient hydrogen production systems
+• Development of novel materials for photonic systems
+• Technologies to lower the initial cost of clean hydrogen production systems
+• On-site production from locally available sources in a sustainable manner
+Storage• High gravimetric and volumetric storage density
+• Efficient operation at lower temperatures and pressures
+• High power output • Recyclability of the storage materials
+• Elimination of very low temperature and pressure requirements
+Distribution• Pipeline upgrades to allow large hydrogen networks
+• Hydrogen fueling stations
+• Minimizing the transportation losses
+• Cost efficiency
+End use• Efficient and affordable catalysts for fuel cells and internal combustion engines
+• Integration of hydrogen into the building heating systems
+• Integration of hydrogen into multigeneration systems
+• Equipment retrofits to allow hydrogen use
+• Enhanced use of hydrogen in the industry as an energy source
+Fig. 11. Key research needs of the elements of the entire hydrogen energy chain.
+Transportation 
+• Clean and 
+affordable 
+hydrogen
+• Well-developed 
+fueling network
+• Affordable 
+hydrogen fueled 
+vehicles
+• Better storage 
+systems
+• Safety
+• EfficiencyBuilding heating, 
+cooling, and power
+• Affordable 
+hydrogen
+• Integration to the 
+existing natural gas pipelines
+• Long term storage
+• Large scale 
+storage
+• Safety
+• EfficiencyIndustry and power 
+generation
+• Hydrogen from 
+clean sources
+• Affordable 
+hydrogen
+• Efficient storage 
+and distribution
+• Large scale 
+systems
+• Continiuous 
+operation
+Fig. 12. Key research directions for wide deployment of hydrogen in different sectors.C. Acar, I. Dincer / Journal of Cleaner Production 218 (2019) 835 e849 846
+widely used in buildings are less complex compared to the trans-
+portation industry. The ﬁrst step could be integrating hydrogen into
+the existing natural gas network in buildings for residential needs
+such as cooking, hot water, and heating. The modi ﬁcations required
+to make this switch and to eliminate or minimize hydrogen losses
+in pipes previously used for natural gas must be completed in the
+ﬁrst step. Like the transportation industry, cost-competitive
+hydrogen is required by the buildings industry. Again, the
+hydrogen used in the buildings must be sustainable with affordable
+prices, high ef ﬁciency, low negative impact on the environment,
+and safety. The buildings industry require effective long-term and
+medium-to-large scale hydrogen storage. Safety and ef ﬁciency are
+also key in the buildings industry.
+Hydrogen deployment in industrial processes as a fuel and as
+industrial feedstock could be achieved in a decentralized manner.
+This means, hydrogen can be integrated into the industry plant by
+plant and increase its market share gradually. The industrial pro-
+cesses and power generation sector require large amounts of
+hydrogen in a continuous manner so large scale and effective
+hydrogen storage is essential in the industry. The cost of hydrogen
+production is expected to be the key determiner during thedeployment of hydrogen in the industry. Wide utilization of
+hydrogen in the industry requires hydrogen price to be either equal
+to or less than the cost of fossil fuels.
+All of the research directions presented here aim to make
+hydrogen energy systems available and ready to be applied to all
+types of end-user needs. Transition to fully developed hydrogen
+energy systems is presented in Fig. 13 . The ﬁrst step is technology
+development where research is conducted to meet end-user re-
+quirements and establish a commercialization scenario. The second
+step is initial market penetration where commercialization of
+initial hydrogen energy systems starts in the transportation,
+buildings sector, and the industry for both small and large and
+stationary and portable needs. The second step is expected to
+include prototypes of hydrogen energy systems and the goal is to
+enhance their market penetration and performance. In the third
+step, investment is required to make hydrogen available for all end-
+user types and needs. In the fourth phase, a fully developed
+hydrogen market and infrastructure are expected where hydrogen
+energy systems are available in all regions for all types of energy
+demand. By making clean, affordable, reliable, and safe hydrogen
+efﬁciently used for all types of energy requirements from power to
+heating and cooling, drying to fresh water production, the depen-
+dence on fossil fuels could be eliminated or minimized. The tran-
+sition from fossil fuels to renewable hydrogen could play critical
+roles in tackling issues related to global warming.7. Conclusions
+Hydrogen energy systems are essential components of solutions
+towards reducing the negative consequences of global warming.
+For a sustainable future, hydrogen should be affordable, reliable,
+safe, clean, and ef ﬁcient. For this reason, the aim of this study is to
+comparatively evaluate technical, environmental, social, and eco-
+nomic performance and reliability of hydrogen by using the 3S
+(source-system-service) approach. By selecting the most sustain-
+able source for the most sustainable hydrogen production and
+storage systems and by enhancing the performance of hydrogen
+end-use technologies such as fuel cells and internal combustion
+engines, the dominant role of fossil fuels in energy systems could be
+eliminated. The main ﬁndings of this study can be summarized as
+follows:
+/C15In terms of environmental performance, the solar option ap-
+pears to be the most advantageous hydrogen production source
+with 8/10 ranking and the nuclear has the lowest ranking of 3/
+10.
+/C15When all economic, environmental, social, technical and reli-
+ability criteria are taken into account, on average, the wind has
+the highest performance ranking (7.40/10) while the geothermal
+has the lowest (4.60/10).
+/C15The environmental performance ranking comparison of
+hydrogen production systems show that the photonic systems
+have the highest ranking (8/10) while the thermal systems have
+the lowest (5/10).
+/C15Upon considering all performance criteria overall, the electrical
+hydrogen production systems are the most advantageous (7.60/
+10), and the biological systems have the lowest ranking (4.80/
+10).
+/C15Among selected hydrogen storage options, the nanomaterials
+have the highest ranking of 9/10 in the environmental perfor-
+mance category, and the cryogenic liquid has the lowest ranking(3/10)
+/C15When all performance criteria are taken into account, the
+nanomaterials are the most advantageous hydrogen storage
+options (8.40/10) while the cryogenic liquid has the lowest
+average overall ranking (3.40/10)
+/C15Solar based electrical (such as photoelectrochemical) hydrogen
+production accompanied by hydrogen storage with nano-
+materials could be the most environmentally benign and sus-
+tainable option.
+In closing, this study focuses on the sustainability aspects of
+hydrogen production sources and systems together with storage
+alternatives. In the open literature, there are some studies focusing
+on hydrogen production sources or hydrogen production systems
+or hydrogen storage options separately. Furthermore, there is a lack
+of studies focusing on social, technical, ﬁnancial, and environ-
+mental aspects of sources and systems required for sustainable
+hydrogen production. By considering the technical, economic,
+environmental and social performance assessments of hydrogen
+production and storage options together with their reliability, this
+study is one of the ﬁrst of its kind, to provide a broader sustain-
+ability investigation of hydrogen production and storage together.
+In future studies, hydrogen end-use options (such as different fuel
+cells and internal combustion engines) could be included in this 3S
+approach to even further enhance the sustainability analysis of
+hydrogen energy systems for a sustainable future.
+References
+Acar, C., Dincer, I., 2014. Energy and exergy analyses of a zero emission power plantResearch, innovation and 
+commercialziationInfrastructure 
+ad market devleopmentCommercially viable 
+productsSustianable 
+hydrogen 
+economy
+Fig. 13. Transition steps towards fully developed and the sustainable hydrogen
+economy.C. Acar, I. Dincer / Journal of Cleaner Production 218 (2019) 835 e849 847
+for coproduction of electricity and methanol. In: Progress in Exergy, Energy, and
+the Environment. Springer, pp. 145 e156.
+Acar, C., Beskese, A., Temur, G.T., 2018. Sustainability analysis of different hydrogen
+production options using hesitant fuzzy AHP. Int. J. Hydrog. Energy 43 (39),
+18059 e18076 .
+Ahmed, A., Al-Amin, A.Q., Ambrose, A.F., Saidur, R., 2016. Hydrogen fuel and
+transport system: a sustainable and environmental future. Int. J. Hydrog. Energy
+41 (3), 1369 e1380 .
+Alanne, K., Cao, S., 2017. Zero-energy hydrogen economy (ZEH2E) for buildings and
+communities including personal mobility. Renew. Sustain. Energy Rev. 71,
+697e711.
+Aneke, M., Wang, M., 2016. Energy storage technologies and real life applications eA
+state of the art review. Appl. Energy 179, 350 e377.
+Arteconi, A., Ciarrocchi, E., Pan, Q., Carducci, F., Comodi, G., Polonara, F., Wang, R.,
+2017. Thermal energy storage coupled with PV panels for demand side man-
+agement of industrial building cooling loads. Appl. Energy 185, 1984 e1993 .
+Asghar, A., Raman, A.A.A., Daud, W.M.A.W., 2015. Advanced oxidation processes for
+in-situ production of hydrogen peroxide/hydroxyl radical for textile wastewatertreatment: a review. J. Clean. Prod. 87, 826 e838.
+Bakenne, A., Nuttall, W., Kazantzis, N., 2016. Sankey-Diagram-based insights into
+the hydrogen economy of today. Int. J. Hydrog. Energy 41 (19), 7744 e7753 .
+Ball, M., Weeda, M., 2015. The hydrogen economy eVision or reality? Int. J. Hydrog.
+Energy 40 (25), 7903 e7919 .
+Beheshti, S.M., Ghassemi, H., Shahsavan-Markadeh, R., 2016. An advanced biomass
+gasiﬁcation eproton exchange membrane fuel cell system for power generation.
+J. Clean. Prod. 112, 995 e1000 .
+Bellotti, D., Rivarolo, M., Magistri, L., Massardo, A.F., 2017. Feasibility study of
+methanol production plant from hydrogen and captured carbon dioxide. J. CO2
+Util. 21, 132 e138.
+Bicer, Y., Dincer, I., Zam ﬁrescu, C., Vezina, G., Raso, F., 2016. Comparative life cycle
+assessment of various ammonia production methods. J. Clean. Prod. 135,
+1379e1395 .
+Bundhoo, M.Z., Mohee, R., 2016. Inhibition of dark fermentative bio-hydrogen
+production: a review. Int. J. Hydrog. Energy 41 (16), 6713 e6733 .
+Chanchetti, L.F., Diaz, S.M.O., Milanez, D.H., Leiva, D.R., de Faria, L.I.L., Ishikawa, T.T.,
+2016. Technological forecasting of hydrogen storage materials using patent
+indicators. Int. J. Hydrog. Energy 41 (41), 18301 e18310 .
+Chintala, V., Subramanian, K.A., 2015. Experimental investigations on effect of
+different compression ratios on enhancement of maximum hydrogen energy
+share in a compression ignition engine under dual-fuel mode. Energy 87,
+448e462.
+Choi, B., Panthi, D., Nakoji, M., Kabutomori, T., Tsutsumi, K., Tsutsumi, A., 2015. Novel
+hydrogen production and power generation system using metal hydride. Int. J.
+Hydrog. Energy 40 (18), 6197 e6206 .
+Cipriani, G., Di Dio, V., Genduso, F., La Cascia, D., Liga, R., Miceli, R., Galluzzo, G.R.,
+2014. Perspective on hydrogen energy carrier and its automotive applications.
+Int. J. Hydrog. Energy 39 (16), 8482 e8494 .
+Creutzig, F., Jochem, P., Edelenbosch, O.Y., Mattauch, L., van Vuuren, D.P.,
+McCollum, D., Minx, J., 2015. Transport: a roadblock to climate change miti-
+gation? Science 350 (6263), 911 e912.
+Creutzig, F., 2016. Economic and ecological views on climate change mitigation with
+bioenergy and negative emissions. GCB Bioenergy 8 (1), 4 e10.
+De Santoli, L., Basso, G.L., Nastasi, B., 2017. The potential of hydrogen enriched
+natural gas deriving from power-to-gas option in building energy retro ﬁtting.
+Energy Build. 149, 424 e436.
+Delmastro, C., Martinsson, F., Mutani, G., Corgnati, S.P., 2017. Modeling building
+energy demand pro ﬁles and district heating networks for low carbon urban
+areas. Procedia Eng. 198, 386 e397.
+Demir, M.E., Dincer, I., 2018. Cost assessment and evaluation of various hydrogen
+delivery scenarios. Int. J. Hydrog. Energy 43 (22), 10420 e10430 .
+Dincer, I., Acar, C., 2015a. A review on clean energy solutions for better sustain-
+ability. Int. J. Energy Res. 39 (5), 585 e606.
+Dincer, I., Acar, C., 2015b. Review and evaluation of hydrogen production methods
+for better sustainability. Int. J. Hydrog. Energy 40 (34), 11094 e11111 .
+Dincer, I., Acar, C., 2016. A review on potential use of hydrogen in aviation appli-
+cations. Int. J. Sustain. Aviat. 2 (1), 74 e100.
+Dincer, I., Acar, C., 2017. Innovation in hydrogen production. Int. J. Hydrog. Energy 42
+(22), 14843 e14864 .
+Dodds, P.E., Staffell, I., Hawkes, A.D., Li, F., Grünewald, P., McDowall, W., Ekins, P.,
+2015. Hydrogen and fuel cell technologies for heating: a review. Int. J. Hydrog.
+Energy 40 (5), 2065 e2083 .
+Dutta, S., 2014. A review on production, storage of hydrogen and its utilization as an
+energy resource. J. Ind. Eng. Chem. 20 (4), 1148 e1156 .
+Fais, B., Sabio, N., Strachan, N., 2016. The critical role of the industrial sector in
+reaching long-term emission reduction, energy ef ﬁciency and renewable tar-
+gets. Appl. Energy 162, 699 e712.
+Frayssinet, L., Merlier, L., Kuznik, F., Hubert, J.L., Milliez, M., Roux, J.J., 2018. Modeling
+the heating and cooling energy demand of urban buildings at city scale. Renew.
+Sustain. Energy Rev. 81, 2318 e2327 .
+Gao, H., Zhen, W., Ma, J., Lu, G., 2017. High ef ﬁcient solar hydrogen generation by
+modulation of Co-Ni sul ﬁde (220) surface structure and adjusting adsorption
+hydrogen energy. Appl. Catal. B Environ. 206, 353 e363.
+Gong, M., Wang, D.Y., Chen, C.C., Hwang, B.J., Dai, H., 2016. A mini review on nickel-
+based electrocatalysts for alkaline hydrogen evolution reaction. Nano Res. 9 (1),
+28e46.Gonz /C19alez, E.L., Llerena, F.I., P /C19erez, M.S., Iglesias, F.R., Macho, J.G., 2015. Energy
+evaluation of a solar hydrogen storage facility: comparison with other electrical
+energy storage technologies. Int. J. Hydrog. Energy 40 (15), 5518 e5525 .
+G€ollei, A., G €orbe, P., Magyar, A., 2016. Measurement based modeling and simulation
+of hydrogen generation cell in complex domestic renewable energy systems.
+J. Clean. Prod. 111, 17 e24.
+Gradisher, L., Dutcher, B., Fan, M., 2015. Catalytic hydrogen production from fossil
+fuels via the water gas shift reaction. Appl. Energy 139, 335 e349.
+Hanley, E.S., Deane, J.P., Gallach /C19oir, B./C19O., 2018. The role of hydrogen in low carbon
+energy futures eA review of existing perspectives. Renew. Sustain. Energy Rev.
+82, 3027 e3045 .
+Hosseini, S.E., Wahid, M.A., Jamil, M.M., Azli, A.A., Misbah, M.F., 2015. A review on
+biomass-based hydrogen production for renewable energy supply. Int. J. EnergyRes. 39 (12), 1597 e1615 .
+Hosseini, S.E., Wahid, M.A., 2016. Hydrogen production from renewable and sus-
+tainable energy resources: promising green energy carrier for clean develop-
+ment. Renew. Sustain. Energy Rev. 57, 850 e866.
+Joshi, A.S., Dincer, I., Reddy, B.V., 2016. Effects of various parameters on energy and
+exergy ef ﬁciencies of a solar thermal hydrogen production system. Int. J.
+Hydrog. Energy 41 (19), 7997 e8007 .
+Kalinci, Y., Hepbasli, A., Dincer, I., 2015. Techno-economic analysis of a stand-alone
+hybrid renewable energy system with hydrogen production and storage op-
+tions. Int. J. Hydrog. Energy 40 (24), 7652 e7664 .
+Karakaya, E., Nuur, C., Assbring, L., 2018. Potential transitions in the iron and steel
+industry in Sweden: towards a hydrogen-based future? J. Clean. Prod. 195,
+651e663.
+Khani, L., Mahmoudi, S.M.S., Chitsaz, A., Rosen, M.A., 2016. Energy and exer-
+goeconomic evaluation of a new power/cooling cogeneration system based on a
+solid oxide fuel cell. Energy 94, 64 e77.
+Kuntke, P., Rodríguez Arredondo, M., Widyakristi, L., ter Heijne, A., Sleutels, T.H.,
+Hamelers, H.V., Buisman, C.J., 2017. Hydrogen gas recycling for energy ef ﬁcient
+ammonia recovery in electrochemical systems. Environ. Sci. Technol. 51 (5),
+3110e3116 .
+Liu, C., Liu, P., 2015. Mechanistic study of methanol synthesis from CO
+2and H 2on a
+modi ﬁed model Mo 6S8cluster. ACS Catal. 5 (2), 1004 e1012 .
+Liu, J., Xia, W., Mu, W., Li, P., Zhao, Y., Zou, R., 2015. New challenge of metal eorganic
+frameworks for high-ef ﬁcient separation of hydrogen chloride toward clean
+hydrogen energy. J. Mater. Chem. 3 (10), 5275 e5279 .
+Liu, J., Liu, G., Gu, C., Liu, W., Xu, J., Li, B., Wang, W., 2016. Rational synthesis of a
+novel 3, 3, 5-c polyhedral metal eorganic framework with high thermal stability
+and hydrogen storage capability. J. Mater. Chem. 4 (30), 11630 e11634 .
+Maleki, A., Pourfayaz, F., Ahmadi, M.H., 2016. Design of a cost-effective wind/
+photovoltaic/hydrogen energy system for supplying a desalination unit by a
+heuristic approach. Sol. Energy 139, 666 e675.
+Maleki, A., Hafeznia, H., Rosen, M.A., Pourfayaz, F., 2017. Optimization of a grid-
+connected hybrid solar-wind-hydrogen CHP system for residential applica-
+tions by ef ﬁcient metaheuristic approaches. Appl. Therm. Eng. 123, 1263 e1277 .
+Maniatopoulos, P., Andrews, J., Shabani, B., 2015. Towards a sustainable strategy for
+road transportation in Australia: the potential contribution of hydrogen. Renew.
+Sustain. Energy Rev. 52, 24 e34.
+Marchenko, O.V., Solomin, S.V., 2015. The future energy: hydrogen versus elec-
+tricity. Int. J. Hydrog. Energy 40 (10), 3801 e3805 .
+Maroufmashat, A., Fowler, M., Khavas, S.S., Elkamel, A., Roshandel, R.,
+Hajimiragha, A., 2016. Mixed integer linear programing based approach foroptimal planning and operation of a smart urban energy network to support
+the hydrogen economy. Int. J. Hydrog. Energy 41 (19), 7700 e7716 .
+Mehrpooya, M., Sayyad, S., Zonouz, M.J., 2017. Energy, exergy and sensitivity ana-
+lyses of a hybrid combined cooling, heating and power (CCHP) plant with
+molten carbonate fuel cell (MCFC) and Stirling engine. J. Clean. Prod. 148,283e294.
+Moliner, R., L /C19azaro, M.J., Suelves, I., 2016. Analysis of the strategies for bridging the
+gap towards the hydrogen economy. Int. J. Hydrog. Energy 41 (43),
+19500 e19508 .
+Mostafaeipour, A., Khayyami, M., Sedaghat, A., Mohammadi, K., Shamshirband, S.,
+Sehati, M.A., Gorakifard, E., 2016. Evaluating the wind energy potential for
+hydrogen production: a case study. Int. J. Hydrog. Energy 41 (15), 6200 e6210 .
+Nagpal, M., Kakkar, R., 2018. An evolving energy solution: intermediate hydrogen
+storage. Int. J. Hydrog. Energy 43, 12168 e12188 .
+Nakamura, A., Ota, Y., Koike, K., Hidaka, Y., Nishioka, K., Sugiyama, M., Fujii, K., 2015.
+A 24.4% solar to hydrogen energy conversion ef ﬁciency by combining concen-
+trator photovoltaic modules and electrochemical cells. APEX 8 (10), 107101 .
+Nastasi, B., Basso, G.L., 2016. Hydrogen to link heat and electricity in the transition
+towards future smart energy systems. Energy 110, 5 e22.
+Nastasi, B., Di Matteo, U., 2017. Innovative use of Hydrogen in energy retro ﬁtting of
+listed buildings. Energy Procedia 111, 435 e441.
+Niaz, S., Manzoor, T., Pandith, A.H., 2015. Hydrogen storage: materials, methods and
+perspectives. Renew. Sustain. Energy Rev. 50, 457 e469.
+Nikolaidis, P., Poullikkas, A., 2017. A comparative overview of hydrogen production
+processes. Renew. Sustain. Energy Rev. 67, 597 e611.
+Ogden, J., Jaffe, A.M., Scheitrum, D., McDonald, Z., Miller, M., 2018. Natural gas as a
+bridge to hydrogen transportation fuel: insights from the literature. Energy
+Policy 115, 317 e329.
+Otto, A., Robinius, M., Grube, T., Schiebahn, S., Praktiknjo, A., Stolten, D., 2017. Po-
+wer-to-steel: reducing CO 2through the integration of renewable energy and
+hydrogen into the German steel industry. Energies 10 (4), 451 .C. Acar, I. Dincer / Journal of Cleaner Production 218 (2019) 835 e849 848
+Owierkowicz, D., Malinowska, M., 2017. The future of the fuel in the marine in-
+dustry. World Sci. News 76, 136 e148.
+Prananto, L.A., Biddinika, M.K., Aziz, M., 2017. Combined dehydrogenation and
+hydrogen-based power generation. Energy Procedia 142, 1603 e1608 .
+Rao, M., Fernandes, A., Pronk, P., Aravind, P.V., 2019. Design, modelling and techno-
+economic analysis of a solid oxide fuel cell-gas turbine system with CO 2capture
+fueled by gases from steel industry. Appl. Therm. Eng. 148, 1258 e1270 .
+Reinhart, C.F., Davila, C.C., 2016. Urban building energy modeling eA review of a
+nascent ﬁeld. Build. Environ. 97, 196 e202.
+Ren, J., Musyoka, N.M., Langmi, H.W., Mathe, M., Liao, S., 2017. Current research
+trends and perspectives on materials-based hydrogen storage solutions: a
+critical review. Int. J. Hydrog. Energy 42 (1), 289 e311.
+Reuß, M., Grube, T., Robinius, M., Preuster, P., Wasserscheid, P., Stolten, D., 2017.
+Seasonal storage and alternative carriers: a ﬂexible hydrogen supply chain
+model. Appl. Energy 200, 290 e302.
+Salvi, B.L., Subramanian, K.A., 2015. Sustainable development of road transportation
+sector using hydrogen energy system. Renew. Sustain. Energy Rev. 51,
+1132e1155 .
+Sarrias-Mena, R., Fern /C19andez-Ramírez, L.M., García-V /C19azquez, C.A., Jurado, F., 2015.
+Electrolyzer models for hydrogen production from wind energy systems. Int. J.
+Hydrog. Energy 40 (7), 2927 e2938 .
+Schandl, H., Hat ﬁeld-Dodds, S., Wiedmann, T., Geschke, A., Cai, Y., West, J.,
+Newth, D., Baynes, T., Lenzen, M., Owen, A., 2016. Decoupling global environ-mental pressure and economic growth: scenarios for energy use, materials use
+and carbon emissions. J. Clean. Prod. 132, 45 e56.
+Schulze, M., Nehler, H., Ottosson, M., Thollander, P., 2016. Energy management in
+industry ea systematic review of previous ﬁndings and an integrative concep-
+tual framework. J. Clean. Prod. 112, 3692 e3708 .
+Sethia, G., Sayari, A., 2016. Activated carbon with optimum pore size distribution for
+hydrogen storage. Carbon 99, 289 e294.
+Setoyama, T., Takewaki, T., Domen, K., Tatsumi, T., 2017. The challenges of solar
+hydrogen in chemical industry: how to provide, and how to apply? Faraday
+Discuss 198, 509 e527.
+Sgobbi, A., Nijs, W., De Miglio, R., Chiodi, A., Gargiulo, M., Thiel, C., 2016. How far
+away is hydrogen? Its role in the medium and long-term decarbonisation of theEuropean energy system. Int. J. Hydrog. Energy 41 (1), 19 e35.
+Shaﬁei, E., Davidsdottir, B., Leaver, J., Stefansson, H., Asgeirsson, E.I., 2015.
+Comparative analysis of hydrogen, biofuels and electricity transitional path-
+ways to sustainable transport in a renewable-based energy system. Energy 83,
+614e627.
+Shaﬁei, E., Davidsdottir, B., Leaver, J., Stefansson, H., Asgeirsson, E.I., 2017. Energy,
+economic, and mitigation cost implications of transition toward a carbon-neutral transport sector: a simulation-based comparison between hydrogen
+and electricity. J. Clean. Prod. 141, 237 e247.
+Shaner, M.R., Atwater, H.A., Lewis, N.S., McFarland, E.W., 2016. A comparativetechnoeconomic analysis of renewable hydrogen production using solar energy.
+Energy Environ. Sci. 9 (7), 2354 e2371 .
+Sharma, S., Ghoshal, S.K., 2015. Hydrogen the future transportation fuel: from
+production to applications. Renew. Sustain. Energy Rev. 43, 1151 e1158 .
+Simon, J., Ferriz, A.M., Correas, L.C., 2015. HyUnder ehydrogen underground storage
+at large scale: case study Spain. Energy Procedia 73, 136 e144.
+Singh, S., Jain, S., Venkateswaran, P.S., Tiwari, A.K., Nouni, M.R., Pandey, J.K., Goel, S.,
+2015. Hydrogen: a sustainable fuel for future of the transport sector. Renew.
+Sustain. Energy Rev. 51, 623 e633.
+Singh, A.K., Singh, S., Kumar, A., 2016. Hydrogen energy future with formic acid: a
+renewable chemical hydrogen storage system. Catal. Sci. Technol. 6 (1), 12 e40.
+Sinigaglia, T., Lewiski, F., Martins, M.E.S., Siluk, J.C.M., 2017. Production, storage, fuel
+stations of hydrogen and its utilization in automotive applications-a review. Int.J. Hydrog. Energy 42 (39), 24597 e24611 .
+Siyal, S.H., Mentis, D., M €ortberg, U., Samo, S.R., Howells, M., 2015. A preliminary
+assessment of wind generated hydrogen production potential to reduce the
+gasoline fuel used in road transport sector of Sweden. Int. J. Hydrog. Energy 40
+(20), 6501 e6511 .
+Sorrell, S., 2015. Reducing energy demand: a review of issues, challenges and ap-
+proaches. Renew. Sustain. Energy Rev. 47, 74 e82.
+Speight, J.G., 2016. Hydrogen in re ﬁneries. Hydrogen Sci. Eng. Mater. Process. Syst.
+Technol. 1 e18.
+Uyar, T.S., Besikci, D., 2017. Integration of hydrogen energy systems into renewable
+energy systems for better design of 100% renewable energy communities. Int. J.
+Hydrog. Energy 42 (4), 2453 e2456 .
+Valente, A., Iribarren, D., Dufour, J., 2018. Harmonizing the cumulative energy de-
+mand of renewable hydrogen for robust comparative life-cycle studies. J. Clean.
+Prod. 175, 384 e393.
+Van Fan, Y., Perry, S., Kleme /C20s, J.J., Lee, C.T., 2018. A review on air emissions assess-
+ment: transportation. J. Clean. Prod. 194, 673 e684.
+Walker, S.B., Mukherjee, U., Fowler, M., Elkamel, A., 2016. Benchmarking and se-
+lection of Power-to-Gas utilizing electrolytic hydrogen as an energy storage
+alternative. Int. J. Hydrog. Energy 41 (19), 7717 e7731 .
+Wong, P.S., Lindsay, A., Crameri, L., Holdsworth, S., 2015. Can energy ef ﬁciency
+rating and carbon accounting foster greener building design decision? Anempirical study. Build. Environ. 87, 255 e264.
+Yarbrough, I., Sun, Q., Reeves, D.C., Hackman, K., Bennett, R., Henshel, D.S., 2015.
+Visualizing building energy demand for building peak energy analysis. Energy
+Build. 91, 10 e15.
+Yilmaz, F., Balta, M.T., Selbas ¸ , R., 2016. A review of solar based hydrogen production
+methods. Renew. Sustain. Energy Rev. 56, 171 e178.
+Zhang, Y.H., Jia, Z.C., Yuan, Z.M., Yang, T., Qi, Y., Zhao, D.L., 2015. Development and
+application of hydrogen storage. J. Iron Steel Res. Int. 22 (9), 757 e770.
+Zhang, F., Zhao, P., Niu, M., Maddy, J., 2016. The survey of key technologies in
+hydrogen energy storage. Int. J. Hydrog. Energy 41 (33), 14535 e
+14552 .C. Acar, I. Dincer / Journal of Cleaner Production 218 (2019) 835 e849 849

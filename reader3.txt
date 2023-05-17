@@ -1,0 +1,1011 @@
+Sustainability analysis of different hydrogen
+production options using hesitant fuzzy AHP
+Canan Acar*, Ahmet Beskese, Gu ¨l Tekin Temur
+Faculty of Engineering and Natural Sciences, Bahcesehir University, C ¸ ıra /C21gan Caddesi No: 4 e6 34353 Bes ‚iktas‚,
+Istanbul, Turkey
+article info
+Article history:
+Received 18 April 2018Received in revised form25 July 2018Accepted 5 August 2018Available online 29 August 2018
+Keywords:
+Hesitant fuzzy AHPHydrogenMulti criteria decision makingRenewablesSustainabilityabstract
+Hydrogen is seen as the key component of energy systems for a sustainable future. In theliterature, there has been extensive efforts on making hydrogen energy systems moresustainable. True sustainability of such systems requires hydrogen to be produced in clean,reliable, affordable, and safe manners without harming neither the environment nor the
+societies. In the literature, there is a lack of studies focusing on a complete technical,
+environmental, social, and economic evaluation of hydrogen production systems by takingavailability and reliability into account. Therefore, the primary aim of this study is toprovide a comprehensive review and investigation on sustainability of hydrogen produc-tion systems, which could potentially guide researchers, policy makers, different in-dustries, and energy market customers. The selected hydrogen production methods aregrid electrolysis (electricity from fossil fuels), wind electrolysis, PV electrolysis, nuclearthermochemical water splitting cycles, solar thermochemical water splitting cycles andphotoelectrochemical cells. To deal with the ambiguity and vagueness in the evaluationprocess, and to overcome the observed hesitancy in decision makers ’preferences, a novel
+approach, hesitant fuzzy AHP, is used to evaluate sustainability of the selected hydrogen
+production methods. In the proposed model, ﬁve criteria; economic performance (initial
+cost and running cost), environmental performance (GHG emissions, land use, waterdischarge quality, and solid waste), social performance (impact on public health,employment and training opportunities, and public acceptance), technical performance(energy and exergy efﬁciencies, process control, and raw material input), and availability/reliability (dependence on imported resources, predictability, and scalability) are taken intoaccount. The results show that grid electrolysis is expected to hold the key of sustainablehydrogen production in the near future while the technologies of other methods advanceand their associated costs decrease.
+©2018 Hydrogen Energy Publications LLC. Published by Elsevier Ltd. All rights reserved.
+Introduction
+Increasing world population and rise in standards of living
+have been the two reasons behind ever growing global energydemand. So far, this demand has heavily been met by burning
+fossil fuels. However, their limited and nonhomogeneous re-
+serves and concerns related to climate change and energysecurity have shifted the attention towards alternative energysources and systems, such as renewables. Although they have
+*Corresponding author .
+E-mail address: Canan.Acar@eng.bau.edu.tr (C. Acar).
+Available online at www.sciencedirect.com
+ScienceDirect
+journal homepage: www.elsevier.com/locate/he
+international journal of hydrogen energy 43 (2018) 18059 e18076
+https://doi.org/10.1016/j.ijhydene.2018.08.024
+0360-3199/ ©2018 Hydrogen Energy Publications LLC. Published by Elsevier Ltd. All rights reserved.
+tremendous advantages in terms of energy security and
+environmental impact, renewables are not continuous sup-
+plies of energy, therefore, they need to be stored in reliable,safe, effective, and environmentally benign ways for a sus-tainable future [1].
+In the literature, there are many studies focusing on smart
+energy systems for a sustainable future, and it is widelyaccepted that these systems require a variety of energy stor-age options designed to meet different end use requirements.In traditional electricity generation and distribution systems,the challenge is to precisely adjust the supply to meet theﬂuctuating demand. The excess energy is usually converted to
+different forms other than electricity such as potential, ki-
+netic, chemical etc. The aim of this approach is to bridge thegap between supply and demand when there is a mismatchbetween them [2].
+Hydrogen is a promising energy storage medium with
+tremendous advantages such as lower transmission andstorage losses compared to electricity, production fromrenewable and abundant resources via a wide variety ofmethods and technologies, and its high gravimetric energydensity. As a chemical fuel, hydrogen can easily be integratedto existing fuel distribution and utilization network with
+minimal adjustments. In addition, hydrogen can be used in
+fuel cells or internal combustion engines to generate elec-tricity with minimal or zero environmentally harmful emis-sions. In order to be considered as truly sustainable manners,hydrogen must be produced from clean, affordable, reliableand abundant resources in energy and cost efﬁcient andenvironmentally and socially benign manners [3].
+In the literature, there is an increasing amount of studies
+on sustainability analysis of hydrogen production systems.Dincer and Acar [2]have introduced the critical perspectives
+of innovation speciﬁcally for hydrogen production under a
+new concept (so-called: 18S concept), covering source, system,
+service, scope, staff, scale-up, safety, scheme, sector, solution,stakeholder, standardization, subsidy, stimulation, structure,strategy, support and sustainability. They have discussed andhighlighted the importance of these speciﬁc conceptual itemson sustainable hydrogen production. The authors also havecomparatively assessed some innovative hydrogen produc-tion methods by using a ranking method based on the 18Sconcept. Their results have showed that renewable sources,particularly hydro, geothermal and solar show a unique po-tential to support sustainable hydrogen production. The au-thors also have pointed out that the production methods
+supporting heat recovery (such as thermal production
+methods) and the photonic based options show better per-formance in terms of emissions, cost, and efﬁciency.
+Aasadnia and Mehrpooya [4]have reviewed the sustain-
+ability of large-scale liquid hydrogen production methods andapproaches. In their study, the authors have introduced anovel classiﬁcation of hydrogen liquefaction systems in termsof heat exchange and expansion process methods. The au-thors have also highlighted the importance of using renew-able resources in hydrogen liquefaction plants. In addition,the authors have reviewed hybrid conceptual hydrogen
+liquefaction plants which integrate renewable resources to
+conventional plants for better sustainability. In addition torenewability of resources, the authors have considered theoperational costs and system efﬁciencies of hydrogen pro-
+duction processes. The authors ’sustainability analysis has
+also covered speciﬁc energy consumption (SEC) and exergyefﬁciency of hydrogen liqueﬁers is discussed. The authorshave concluded that SEC reduction of hydrogen liquefaction isnot expected to be rapid in the near future, the authors havepointed that this amount is expected to remain within therange of 5 e8 kWh/kg LH
+2. Overall, the authors have included
+energy and exergy efﬁciencies, renewability of resources, andoperational costs when assessing the sustainability of liquidhydrogen production and concluded that further analysisshould be done for a more comprehensive analysis, especially
+considering environmental impacts of hydrogen production
+methods.
+Nikolaidis and Poullikkas [5]have conducted a compara-
+tive overview of 14 different hydrogen production processes inorder to assess their sustainability. The authors have consid-ered production costs and rates, system efﬁciencies, scal-ability, and investment costs while assessing thesustainability of conventional and new hydrogen productionmethods. The authors have concluded that thermochemicalpyrolysis and gasiﬁcation are economically viable approachesproviding the highest potential to become competitive on a
+large scale in the near future while conventional methods
+retain their dominant role with costs in the range of 1.34 e2.27
+USD/kg. The authors have also pointed out that biologicalmethods appear to be promising pathways, but furtherresearch studies are needed to improve their production rates,while the low conversion efﬁciencies in combination with thehigh investment costs are the key restrictions for water-splitting technologies to compete with conventionalmethods. However, the authors have concluded that furtherdevelopment of these technologies along with signiﬁcant in-novations concerning hydrogen storage, transportation and
+utilization, could decrease dependence on fossil fuel imports
+and green hydrogen can dominate over the traditional energyresources. In their study, environmental and social impactsand technical criteria (such as availability) have not beenconsidered for sustainable hydrogen production. In a similarstudy, the authors have concluded that the key to sustainablehydrogen production is to integrate storage, transportationand utilization with renewable based hydrogen production [6].
+With the increasing renewable resource integration to our
+energy mix, there has been growing attention on alternativehydrogen production methods other than fossil fuel poweredoption. Fereidooni et al. [7]have conducted a comprehensive
+evaluation of hydrogen production from photovoltaic power
+stations. The authors have presented the viability of PV basedelectrolysis options for sustainable hydrogen production. Theauthors investigated the production capacity, running cost,and overall system energy efﬁciency as sustainability criteria.Their results have showed that PV electrolysis is a sustainablealternative to produce hydrogen in both small and largescales.
+When produced from renewable and sustainable sources,
+hydrogen becomes a promising green energy carrier for cleandevelopment. Hosseini and Wahid [8]have given an overview
+of the state-of-the-art hydrogen production technologies
+using renewable and sustainable energy resources. The au-thors have taken overall system energy efﬁciency andinternational journal of hydrogen energy 43 (2018) 18059 e18076 18060
+production cost into account and concluded that solar and
+wind powered hydrogen production has a potential to become
+sustainable options when their prices decrease with de-velopments in their technologies. The authors have discussedthat solar and wind powered systems have essentially zerogreenhouse gas emissions and left other environmental andtechnical sustainability criteria to future studies.
+Fukuzumi et al. [9]have investigated the sustainability of
+thermal and photocatalytic production of hydrogen withearth-abundant metal complexes. The authors have devel-oped abundant and reliable catalysts for sustainable solar andthermal based hydrogen production. The authors have
+accomplished eliminating the dependence on precious and
+high cost Pt catalysts in renewable hydrogen production sys-tems. As a result, they have reported reduced hydrogen pro-duction costs and enhanced efﬁciencies with systems whichcould enhance energy security for different regions aroundthe world. The authors ’study has expanded the sustainability
+criteria used by previous researchers by including abundancyin addition to efﬁciency and cost. However, the true environ-mental impact of these systems has not been studied yet.
+Singh et al. [10]have investigated the role of hydrogen as a
+sustainable fuel for future of the transport sector. The authors
+have presented the recent developments in the ﬁeld of pro-
+duction, storage, transport and delivery of hydrogen alongwith environmental and safety aspects of its use as an energycarrier. The authors have concluded that renewable sourcesshould be used for hydrogen production to make it completelysustainable. In their study, it is also mentioned that for a suc-cessful "hydrogen economy "in the near future, the technical
+and economic challenges associated with hydrogen must beaddressed quickly. Even though the authors have pointed outthe challenges very well, their study has not covered envi-ronmental, social, and technical availability criteria.
+Vincent and Bessarabov [11] have reviewed low cost
+hydrogen production by anion exchange membrane electrol-ysis for a sustainable future. The authors have provided asummary of important research that has been carried out onmembranes, electrocatalysts, and ionomers used in electro-lyzers, and the performance of such electrolyzers. The authorshave aimed to identify gaps and future research directions inwater electrolysis. The authors have stated that water elec-trolysis is still a developing technology; therefore, forcommercially viable hydrogen production, requires furtherinvestigation and improvements are needed, especially onefﬁciency enhancement, membrane stability, robustness,
+ease of handling, and cost reduction. Despite the fact that the
+authors have covered some technical, economic, and safetyaspects of sustainability, this study does not cover environ-mental and social aspects which are mentioned in futuredirections.
+Ahmed et al. [12]have investigated the role of hydrogen as
+a transport fuel for a sustainable future. The authors havediscussed a framework based on macroeconomic issuesconsidering several feasible options for a sustainable future.The authors have stated the importance of renewable energychoices for sustainable growth. In addition, the authors have
+discussed that while the beneﬁts of prioritizing a modern
+emission-free future transport system are great, often issuesraised regarding how a national economy can deliberate andimplement such policy options become contentious. Here, it
+should be noted that the authors have deﬁned the sustain-
+ability framework based on three dimensions: energetic (efﬁ-ciency), economic (production cost), and environmental (CO
+2
+emissions). Similar studies have taken the same criteria intoaccount for hydrogen use in sustainable aviation [13]and road
+transportation [14]sectors and highlighted the importance of
+renewables in hydrogen production. Further investigation isneeded for a better sustainability analysis including otherenergetic, economic, environmental, social, and availabilitycriteria.
+The main motivation behind this study is the need to
+provide a comprehensive review and investigation on sus-
+tainability of hydrogen production systems, which couldpotentially guide researchers, policy makers, different in-dustries, and energy market customers. In the literature, thereis a lack of studies focusing on a complete technical, envi-ronmental, social, and economic evaluation of hydrogenproduction systems by taking availability and reliability intoaccount. Therefore, in this study, the primary goal is toconduct a performance investigation of some key hydrogenproduction systems, which are grid electrolysis (electricityfrom fossil fuels), wind electrolysis, PV electrolysis, nuclear
+thermochemical water splitting cycles, solar thermochemical
+water splitting cycles, and photoelectrochemical cells. To doso, a hierarchical decision model is built based on literaturereview and interviews with experts on the ﬁeld. The modelconsists of ﬁve main and seventeen sub-criteria such as eco-nomic performance (initial and running cost), environmentalperformance (GHG emissions, land use, water dischargequality, and solid waste), social performance (impact onpublic health, employment and training opportunities, andpublic acceptance), technical performance (energy and exergyefﬁciencies, process control, and raw material input), and
+availability/reliability (dependence on imported resources,
+predictability, and scalability). To deﬁne the weights of mainand sub-criteria, experts are provided with a questionnairehaving pairwise comparisons. To handle the observed hesi-tancy of the experts about assigning exact values for com-parisons in the evaluations, hesitant fuzzy AHP is used. In theend, several recommendations and future directions are pro-vided for the quality and end use enhancement of hydrogenproduction methods.
+The study is organized as follows: Section Hydrogen
+production methods gives the details about hydrogen pro-
+duction methods and MCDM tools used in hydrogen produc-
+tion. Section Research methodology presents the research
+methodology including HFS and HFAHP. Section Proposed
+model presents the structure of the hierarchical decision
+model for hydrogen production option selection, the calcula-tion of the importance weights of the criteria of the proposedmodel and the results of the sensitivity analysis. Finally,Section Conclusions concludes the research results and gives
+directions for future research.
+Hydrogen production methods
+In this study, the sustainability aspects of six differenthydrogen production methods are investigated which can beinternational journal of hydrogen energy 43 (2018) 18059 e18076 18061
+classiﬁed based on their primary energy sources as shown in
+Fig. 1 .
+In this section, the options presented in Fig. 1 are discussed
+in detail. It should be noted that all electrical energy-basedhydrogen production options essentially use the same elec-trolyzer technology with different energy resources: fossilfuels, wind, or solar. In this study, grid electrolysis is also usedas fossil fuel electrolysis as the grid electricity is assumed to begenerated from fossil fuels. In addition, when conducting thesustainability assessment, grid electrolysis is assumed to bedeveloped in an area with already existing access to gridelectricity from fossil fuels. On the other hand, in the other
+options, the infrastructure needs to be developed ﬁrst as well
+(e.g., wind turbine or PV panel installation or thermochemicalfacility building, etc.).
+Electrical energy based hydrogen production options
+Electrical energy is a form of energy resulting from the ﬂow ofelectric charge. It can be harnessed from a variety of primaryenergy sources: biomass, geothermal, hydro, nuclear, ocean,
+solar, and wind. In this study, electrolysis is the only electrical
+energy-based hydrogen production method.
+In electrical energy-based hydrogen production processes,
+hydrogen and oxygen are produced from water and electricityin an electrolyzer. Electrolyzers have a wide range of appli-cations. They can support small-scale appliances anddistributed hydrogen production. On the other hand, largerelectrolyzers are capable of producing hydrogen in centralizedfacilities. In order to produce hydrogen in an environmentallybenign way via electrolysis, electricity should come from lowor zero carbon resources. Electrolyzers also vary based on
+their operating temperatures. At lower operating tempera-
+tures, electrolysis has lower efﬁciencies but these electro-lyzers have simpler designs and there are fewer problems dueto corrosion and heat losses. These systems are commerciallyavailable in some hydrogen fueling stations. High-temperature electrolyzers operate at temperatures mostlyabove 750
+/C14C, therefore these systems require higher qualityheat which is generally provided by nuclear and concentrated
+solar power plants. High-temperature electrolyzers have
+higher efﬁciencies compared to the low-temperature alter-natives. There is increasing demand to clean electricity-basedelectrolysis due to the global efforts to minimize greenhousegas emissions especially after Kyoto Protocol and ParisAgreement.
+Electrolyzers are categorized based on their electrolytes.
+The type of electrolyte used in an electrolyzer deﬁnes theanode (oxidation) and cathode (reduction) reactions. Theanode reaction is also identiﬁed as oxygen-evolving reactionwhile the cathode reaction is called as hydrogen evolving re-
+action. Three of the most common electrolyzers are (i) alkaline
+electrolyzers (AEL), (ii) polymer electrode membrane or protonexchange membrane electrolyzers (PEMEL), and (iii) solidoxide electrolyzers (SOEL).
+Grid electrolysis
+In grid electrolysis, the electrolyzer is connected to an alreadyexisting electricity network. This option seems to be thecheapest and quickest way during the transition to a suc-cessful hydrogen economy. However, with this option, it is notpossible to produce hydrogen in remote and/or rural regions
+with no access to reliable electricity. In addition, even though
+electrolysis itself emits no environmentally harmful gases,this option indirectly has negative environmental impacts asthe contributor of increasing fossil fuel combustion for elec-tricity production.
+In the literature, there is a wide variety of studies focusing
+on different aspects of grid electrolysis such as energy storageand grid balancing [15]. Grid electrolysis-based hydrogen
+production is currently seen as the most convenient optionduring transition to hydrogen fueled vehicles (e.g., fuel cellvehicles) [16,17] . Further information on grid electrolysis and
+the its future on sustainable hydrogen production can be
+found in Refs. [18e20].
+Wind electrolysis
+The basics of wind electrolysis is very similar to grid elec-
+trolysis with one difference: in wind electrolysis, the electro-lyzer is connected to the electricity provided by wind turbines.Wind electrolysis is a viable approach to producing greenerhydrogen, holding promise to better utilize locally availablerenewable energy sources [21]. A wind electrolysis system can
+reduce greenhouse gas emissions while integrating largerpercentages of renewable energy into the electric grid [22].T o
+enable a greater penetration of renewable energy resources,
+hydrogen production from wind electrolysis must be costcompetitive [23]. For instance, as a vehicle fuel, this means
+competing with gasoline or other vehicle fuels; as energystorage for the grid, this means being cost competitive withother grid electricity technologies [24]. Hydrogen could be
+produced for 4 USD/kg or less at some high wind class sites[20]. However, a bigger issue is the capacity factor, which
+needs to be 44% or better along with relatively high windspeeds [25]. Along with low production costs, however, de-
+livery and storage costs will also factor into the ﬁnal cost of
+hydrogen, which calls for investigating a wider range of wind
+class sites, where geographical elements such as distancefrom end use should also be considered [26].
+Fig. 1eClassiﬁcation of elected hydrogen production
+methods.international journal of hydrogen energy 43 (2018) 18059 e18076 18062
+PV electrolysis
+The sustainable nature of solar electricity along with its
+associated large resource potential and falling costs havemotivated a rapid increase in the deployment of utility scalesolar electricity generation plants in recent years [27]. As the
+installed capacity of photovoltaics (PVs) continues to grow,cost-effective technologies for solar energy storage will becritical to mitigate the intermittency of the solar resource andto maintain stability of the electrical grid [28]. Hydrogen gen-
+eration via solar water splitting represents a promising solu-tion to these challenges, as hydrogen can be stored,
+transported and consumed without generating harmful
+byproducts [29]. However, the cost of hydrogen produced by
+electrolysis is still signiﬁcantly higher than that produced byfossil fuels [30]. The U.S. Department of Energy has calculated
+the hydrogen threshold cost to be 2.00 e4.00 USD per gallon of
+gasoline equivalent, whereas the most up-to-date reportedhydrogen production cost via electrolysis is 3.2 e6.6 USD per
+gallon of gasoline equivalent [31].
+Thermal energy based hydrogen production options
+Thermal energy refers to the energy contained within a sys-
+tem that is responsible for its temperature and heat is the ﬂowof thermal energy. Thermolysis, thermochemical watersplitting, biomass gasiﬁcation, and biofuel reforming are some
+examples of thermal based hydrogen production methods.
+Biomass, geothermal, nuclear, ocean, and solar are some ofthe sustainable primary energy sources for thermal hydrogenproduction.
+Research on thermochemical cycles mainly focus on using
+solar or nuclear primary heat input. Numerous thermo-chemical cycles have been proposed in the past and checkedagainst factors such as: corrosion problems, cost analysis,heat transfer, material stability, maximum temperature,processing scheme, reaction kinetics, and separation of sub-stances, side reactions, thermodynamics, thermal efﬁciency
+and toxicity. Some have sufﬁciently progressed to be experi-
+mentally demonstrated and have already proven their scien-tiﬁc and practical feasibility. All cycles however, have designchallenges and none has actually been implemented on acommercial scale.
+Nuclear thermochemical water splitting cycles
+As long as it can provide electricity and process heat, any typeof nuclear reactor can be used for the production of hydrogen[32]. Besides high temperature electrolysis, another promising
+candidate to produce large amounts of hydrogen by high
+temperature water-splitting is thermochemical process. The
+most straightforward method of water splitting would be aone-step direct thermal decomposition. However, this wouldrequire temperatures higher than 2500
+/C14C for reasonable
+quantities, which is industrially not feasible. Therefore, multi-step processes are being considered [33].
+A thermochemical cycle is a process consisting of a series
+of thermally driven chemical reactions where water isdecomposed into hydrogen and oxygen at moderate temper-atures. Supporting intermediate chemical compounds, whichare regenerated and recycled internally and remain
+completely in the system, are used in a sequence of chemicaland physical processes. The only input to the cycle is water
+and high temperature heat. Therefore, these cycles are
+potentially more efﬁcient than low temperature electrolysisand could signiﬁcantly reduce production costs [34].
+Solar thermochemical water splitting cycles
+Thermochemical hydrogen production has been under study at
+one level or another for many years. Most recently, renewablesources of thermal energy, like solar and nuclear reactorsources, have been emphasized. Nuclear power represents ahigh energy density source that is restricted in operating tem-perature range because of the materials of construction needed
+to contain nuclear material. Solar power represents a low en-
+ergy density source that can attain far higher temperaturesthrough solar concentration, but is still restricted in operatingtemperature because of materials of construction needed tocontain the thermochemical reaction. Nevertheless, feasibleoperating temperatures for a solar cycle are much higher thanthose for a nuclear cycle. As a consequence, the inventory ofpossible solar powered thermochemical reactions to producehydrogen from water is quite large [35].
+A simple two-step thermochemical water-splitting reac-
+tion to produce hydrogen generally requires very high tem-
+perature heat for endothermic metal oxide reduction to
+release oxygen, and a lower temperature exothermic reactionof water with the metal, increasing the oxidation state of themetal and releasing hydrogen. In most two-step cycles of thissort, the reduction temperature exceeds the vaporizationtemperature of the metal and this class is called the VolatileMetal Oxide class. Several two-step metal oxide cycles havebeen investigated in which mixed oxides, usually ferritecompounds, undergo reduction and oxidation without vola-tilization and these and other non-volatile multi-step re-actions were assigned to a Non-Volatile Metal Oxide class. All
+of the reactions in these two classes rely on very high tem-
+peratures ( >1400
+/C14C)[36,37] .
+Thermal reduction of some more complex chemicals can
+be achieved at lower temperatures because the oxygen bondsare weaker than for simple metal oxides. An intermediatereaction is necessary to release hydrogen and another reac-tion (sometimes more than one) is required to restore theoxidation state of the initial compound. Lower temperaturecycles either employ intermediates for oxidation, compli-cating the cycle chemistry, or use electrolysis to releasehydrogen and restore the original oxidation state of the cycle.A sulfuric acid cycle is one of very few low temperature pure
+thermochemical cycles that operate at a moderate tempera-
+ture (~850
+/C14C), but it is a multi-step cycle with an intermediate
+compound required to close the cycle. Another sulfuric acidcycle is simpliﬁed to a two-step cycle by using an electrolyticstep to close the cycle [38].
+Photoelectrochemical energy based hydrogen production
+options
+A photoelectrochemical hydrogen production cell (PEC)
+essentially contains one or two photoelectrodes (i.e., photo-anode and photocathode). In a PEC, there is at least onesemiconductor electrode. The photonic energy is absorbed bythe photoelectrode(s) in a PEC. PV cells and PECinternational journal of hydrogen energy 43 (2018) 18059 e18076 18063
+semiconductor electrodes have analogous operating mecha-
+nisms. In both systems, electron ehole pairs are produced by
+the photons with energies higher than the band gap of thephotoactive surface. Such electron ehole pairs are used to
+either reduce or oxidize water. A PEC can use the solar spec-trum more efﬁciently compared with photocatalysis and PVelectrolysis because it combines water electrolysis and pho-tocatalysis in one single element [39]. Because PECs do not
+have a need for additional power supplies, they are morecompact, which is one of the major advantages of these sys-tems. There are many kinds of photosensitive semiconductorsinvestigated in the literature. The most promising option so
+far is TiO
+2[40]. In addition to TiO 2, several other semi-
+conductors have been studied, such as ZnO, Fe 2O3, BiVO 4and
+WO 3[41]. Metal nitrides and phosphides (i.e., Ta 3N5and GaP),
+metal oxynitrides (i.e., TaON) and n-type and p-type siliconhave also been investigated in the open literature [42].
+MCDM tools used in decisions related to hydrogen
+production methods
+Since many decisions related with hydrogen production
+concern multi-dimensional criteria, Multi Criteria DecisionMaking (MCDM) tools are utilized in the relevant literature.Ren and Toniolo [43]have proposed a methodology including
+the improved decision making trial and evaluation laboratory(DEMATEL) and interval evaluation based on distance fromaverage solution (EDAS) to order the pathways of hydrogenproduction. The alternatives of pathways have been catego-rized into 4 groups: coal gasiﬁcation, stream reforming ofmethane, biomass gasiﬁcation, and wind turbine electrolysis.As a result of the analysis, biomass gasiﬁcation has been
+noticed as the best option among these alternatives. On the
+other hand, the coal gasiﬁcation has been found as the leastsustainable option. In order to reveal the effect of changings ofthe weights on the decision, a sensitivity analysis has alsobeen conducted. Yu [44] has utilized interval-valued intui-
+tionistic fuzzy set theory to select the best hydrogen produc-tion technology among three basic alternatives: nuclear basedhigh temperature electrolysis technology, electrolysis ofwater technology by hydropower, and coal gasiﬁcation tech-nology. In the proposed methodology, three main criteria suchas economic performance, social performance, and the sup-
+port degree of government policies have been taken into ac-
+count. Nuclear based high temperature electrolysistechnology has been considered as the best alternative. On theother hand, coal gasiﬁcation technology has been found as theleast satisfactory option. Ren et al. [45]have presented a novel
+fuzzy multi-actor MCDM method to order the biomass-basedtechnologies for hydrogen production. Four main criteria(economic, environmental, technological, and social-political)have been taken into consideration with their ﬁfteen sub-criteria. By evaluating these criteria, the best biomass-basedtechnology has been selected among four alternatives: pyrol-
+ysis, conventional gasiﬁcation, supercritical water gasiﬁca-
+tion, and fermentative hydrogen production. Conventionalgasiﬁcation has been found as the best technology andfermentative hydrogen production has been considered as theleast desirable one. Pilavachi et al. [46]have utilized Analytic
+Hierarchy Process (AHP) to select the best hydrogenproduction process among seven alternatives: steam methane
+reforming, partial oxidation of hydrocarbons, coal gasiﬁca-
+tion, biomass gasiﬁcation, the combination of photovoltaicsand electrolysis, the combination of wind power and elec-trolysis, and the combination of hydropower and electrolysis.The evaluation has been performed by taking into consider-ation following criteria: CO
+2emissions, operation and main-
+tenance costs, capital cost, feedstock cost, and hydrogenproduction cost. The results have indicated that the processeswhich are integrating renewable energy sources are the mostsatisfactory options. Afgan et al. [47] have presented a sus-
+tainability index based multi criteria evaluation process for
+hydrogen systems in which performance, environment,
+market, and social factors have been considered. Thehydrogen energy system options have been categorized intofour parts: feedstock, electrical energy, H
+2production, and H 2
+utilization.
+Although MCDM methods are well studied in hydrogen
+production study ﬁeld, there are not any studies which utilizea novel approach to deal with the vagueness in the decisionsof the experts. Because hydrogen production option evalua-tion concerns opinions of the experts which have high po-tential to carry hesitancy when scoring the criteria and the
+alternatives, Hesitant Fuzzy Sets (HFS) should be utilized to
+overcome this problem.
+Research methodology
+In this section, the research methodology behind the sus-tainability evaluation of hydrogen production processes isexplained in detail. This section has two parts: ﬁrst, hesitantfuzzy sets are introduced and then hesitant fuzzy analytic
+hierarchy process (HFAHP) is introduced.
+Hesitant fuzzy sets
+Ordinary fuzzy sets are utilized to handle uncertainties and
+vagueness in the opinions of the decision makers [48]. How-
+ever, for the problems involving contradictions in the opin-ions of the decision makers when scoring the criteria and the
+alternatives, an evolved fuzzy set which is strong enough to
+deal with the subjective conﬂictions is required to use. Inpractice, it is very common that decision makers cannotassign an exact linguistic variable reﬂecting their ideas if theproblem has high uncertainty. For such kind of problems, anovel fuzzy sets named hesitant fuzzy set (HFS) introduced byTorra and Narukawa [49]and Torra [50]is required to be uti-
+lized. After HFS has been introduced, Rodriguez et al. [51]have
+proposed hesitant fuzzy linguistic terms sets (HFLTS) to letexperts deﬁne their expressions which hesitate among severalterms. Then, the assessments of experts are aggregated byordered weighted averaging (OWA) operator. OWA operator
+could have been used here as well, as recommended in
+€Oztays ‚i et al. [52], however, it has two important drawbacks:
+i. The decision makers are forced to limit the deviation
+among their preferences with two.
+ii. When there are more than two decision makers, which
+usually is the case, since the method uses only the range ofinternational journal of hydrogen energy 43 (2018) 18059 e18076 18064
+different preferences, and does not interested in how many
+decision makers preferred each evaluation point within
+the range, if the majority of the decision makers has asimilar preference which is different from the minority,this majority does not have a higher inﬂuence on the ﬁnaldecision.
+Given those drawbacks, it could be concluded that fuzzy
+envelopes approach and the usage of OWA operator can beused perfectly in individual evaluations, and in compromiseddecision making in groups where mild contradictions arefaced. However, its usage in its current form can give
+misleading results in aggregate decision making.
+To handle the hesitancies, researchers have begun to
+attach more importance on HFS in a wide range of businessstudy ﬁelds. Recently, project portfolio selection procedure[53] has been developed with the help of HFS. On the other
+hand, in some researches, HFS has been combined with othertraditional MCDM techniques. For instance, Choquet integralapproach has been integrated with HFS to handle soil erosion[54] and ELECTRE method has been combined with HFS to
+select the best maintenance agency [55]. Although HFS has
+been well studied in industrial sectors, the number of studies
+in the energy sector is very limited. Yuan et al. [56]and C ¸ oban
+and Onar [57]have beneﬁted from HFS approach for the se-
+lection of the best renewable energy option. Xiao et al. [58]
+have proposed a HFS based methodology for renewable en-ergy project selection.
+Hesitant fuzzy analytic hierarchy process (HFAHP)
+Analytic Hierarchy Process (AHP) is one of the most commonly
+used MCDM method, and it is performed by conducting pair-
+wise comparisons between main criteria, sub-criteria and al-ternatives. The performance of pairwise comparisons '
+matrices in which the decision makers make scoring, are alsomeasured by checking the consistencies. In many cases,because the decision makers have vagueness in their minds,fuzzy expressions are found as more desirable to make eval-uation. On the other hand, if the decision makers havecontradiction, in other words, if they tend to use such ex-pressions for scoring: “Between 6 and 8 ”, rather than scoring
+the comparison with an exact value such as “7”, it is necessary
+to use hesitant fuzzy AHP (HFAHP). A HFAHP procedure whichis depending on Buckley 's theory can be summarized in twelve
+phases as following:
+Step 1) A hierarchical model consisting of ﬁve main and
+seventeen sub-criteria, and six alternatives is constructed.
+Step 2) As in an ordinary AHP procedure; criteria, sub-
+criteria and alternatives are evaluated using pair wise com-parisons based on linguistic terms in Table 1 . Different from a
+classical fuzzy AHP approach, decision makers are let tochoose an interval of linguistic terms whenever necessary tofully express their preferences. However, in order to be able touse OWA operator, they are asked to limit the maximumrange of each interval by two.
+Step 3) The fuzzy envelopes approach [59]is used to end up
+with trapezoidal fuzzy numbers representing overall individ-ual preferences. Firstly, the fuzzy envelopes for the decisionsof the experts are formed. The lowest scale is s
+0the highest
+scale is sg,and the evaluations are varying between two term;
+sitosj.Therefore, it can be mathematically denoted as
+s0/C20si<sj/C20sg.To proceed with the fuzzy envelopes approach,
+OWA operator of dimension nis used which can be calculated
+by using Equation (1).
+OWA ða1;a2;…;anÞ¼Xn
+j¼1wjbj (1)
+where bjis the largest of the aggregated arguments a1,a2,…,an
+and W ¼(w1,w2,…,wn)Tis the associated weighting vector
+wherePn
+i¼1wi¼1.
+The values of a, b, c, and d constituting the trapezoidal
+fuzzy number ~N(i.e., ~N¼(a, b, c, d)), can be found by using
+Equations (2)e(5):
+a¼minn
+ai
+L;ai
+M;aiþ1
+M;…;aj
+M;aj
+Ro
+¼ai
+L (2)
+d¼maxn
+ai
+L;ai
+M;aiþ1
+M;…;aj
+M;aj
+Ro
+¼aj
+R (3)
+c¼8
+><
+>:ai
+M;if iþ1¼j
+OWA
+w2ðaj
+m;…;aðiþjÞ=2
+mÞ;if iþj is even
+OWA
+w2ðaj
+m;…;aðiþjþ1Þ=2
+m Þ;if iþji so d d9
+>=
+>;(4)
+c¼8
+><
+>:aiþ1
+M;if iþ1¼j
+OWA
+w2ðaj
+m;aj/C01
+m;…;aðiþjÞ=2
+mÞ;if iþj is even
+OWA
+w2ðaj
+m;aj/C01
+m;…;aðiþjþ1Þ=2
+m Þ;if iþji so d d9
+>=
+>;(5)
+Table 1 eLinguistic scales for hesitant FAHP [53].
+Rank Linguistic Term Abbreviation Triangular Fuzzy Number
+10 Absolutely High Importance AHI 7,9,9
+9 Very High Importance VHI 5,7,98 Essentially High Importance ESHI 3,5,77 Weakly High Importance WHI 1,3,5
+6 Equally High Importance EHI 1,1,3
+5 Exactly Equal EE 1,1,14 Equally Low Importance ELI 0.33,1,1
+3 Weakly Low Importance WLI 0.2,0.33,1
+2 Essentially Low Importance ESLI 0.14,0.2,0.331 Very Low Importance VLI 0.11,0.14,0.20 Absolutely Low Importance ALI 0.11,0.11,0.14international journal of hydrogen energy 43 (2018) 18059 e18076 18065
+Assuming that ais in the unit interval [0, 1], ﬁrst ( W1¼(w1
+1,
+w1
+2,…;w1
+n)) and second ( W2¼(w2
+1,w2
+2;…;w2
+n)) types of weights are
+speciﬁed by using a[60] as in Equations (6) and (7) ,
+respectively.
+w1
+1¼a2;w1
+2¼a2ð1/C0a2Þ;…;w1
+n¼a2ð1/C0a2Þn/C02(6)
+w2
+1¼¼an/C01
+1;w2
+2¼ð1/C0a1Þan/C02
+1;…;w2
+n¼1/C0a1;w (7)
+where a1¼g/C0ðj/C0iÞ
+g/C01and a2¼ðj/C0iÞ/C01
+g/C01(gis the top rank number of
+evaluation scores (in this study, the top rank number fromTable 1 is 10), jis the rank of highest evaluation and iis the
+rank of lowest evaluation).
+Step 4) The ﬁnalized individual pair wise comparison ma-
+trix of expert k,~A
+k, is prepared as a result of Step 3 where ~aij¼
+(aijl,aijm1,aijm2,aiju) as shown in Equation (8):
+~Ak¼2
+41/ ~aln
+«1 «
+~anl/ 13
+5 (8)
+The reciprocal values are calculated as shown in Equation
+(9).
+~aji¼/C181
+aiju;1
+aijm2;1
+aijm1;1
+aijl/C19
+(9)
+Step 5) The aggregate decision matrices should be formed
+only if the individual preferences are consistent. Defuzzifyingthe matrices to calculate the consistency is a widely preferredmethod [61,62] . Given the trapezoidal fuzzy number~d¼ðl;m
+1;
+m2;uÞ, the crisp number ðm~dÞcan be calculated by using
+Equation (10).
+m~d¼lþ2m1þ2m2þu
+6(10)
+Equations (11) and (12) can then be used to calculate con-
+sistency ratio (CR);
+CI¼lmax/C0n
+n/C01(11)
+CR¼CI
+RI(12)
+where CIrefers to the consistency index, lmaxsymbolizes the
+largest eigenvector of the matrix, nis the number of criteria,
+and RIis the random index that differs for each n. If the CR
+value is lower than 0.1, it can be accepted as satisfactory and
+the result is found as consistent [63].
+If any of the matrices are inconsistent, the experts are
+asked to revise the corresponding pairwise comparisons untilthe required consistency is reached.
+Step 6) As the consistency is established in every matrix,
+individual matrices are aggregated using geometric means,and the aggregate matrix ~Cin Equation (13)is formed
+~C¼2
+41/ ~c
+xy
+«1 «
+~cyx/ 13
+5 (13)
+such as
+~cij¼ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃYn
+k¼1~ak
+ijnq
+(14)where krepresents the individual experts, and nis the total
+number of these experts.
+Step 7) After reaching the aggregate matrices, each row 's
+geometric mean ð~riÞis calculated by using Equation (15).
+~ri¼ð~ci15~ci2…5~cinÞ1=n(15)
+Step 8) The fuzzy weights ( ~wi) for criteria, subcriteria, and
+alternatives are calculated by using Equation (16). To decrease
+the deviation in the weights, it is assumed that ~rl4~r2…4~rnis
+the maximum parameter of ALI (shown in Table 1 ,i ti s9 ) [52].
+~wi¼~ri5ð~r14~r2…4~rnÞ/C01(16)
+Step 9) All the fuzzy numbers found are defuzziﬁed by
+using Equation (17).
+D¼clþ2cm1þ2cm2þcu
+6(17)
+Step 10) The defuzziﬁed weights are then normalized to
+obtain the local weights of the criteria. To calculate the globalweights of the sub-criteria, their local weights are multipliedwith the weight of the main-criteria they belong.
+Step 11) Previous steps are rerun for each matrix formed
+for each alternative to calculate the preference score of
+alternative i(S
+i). The ﬁnal fuzzy scores can be retrieved by
+using Equation (18).
+Si¼Xn
+j¼1wjsij;ci (18)
+where wjis the global weight of criterion jand sijis the score of
+alternative criterion iwith respect to j. By ranking the defuz-
+ziﬁed values, the best alternative is obtained.
+Proposed model
+In this section, the detailed structure of the proposed model isprovided along with the explanation of each criterion and itscorresponding weight. Then, the selection process is
+explained with the results and their discussion. In the end, the
+sensitivity analysis is given.
+Structure of the proposed model
+Finding different resources is one way to address theincreasing global energy demand. However, these resourcesshould be handled more efﬁciently in order to get more out-
+puts from the same amount of energy consumption. In the
+long term, scientiﬁc and technical developments might allowsubstitution of traditional fuels with new fuels and clean en-ergy systems. For this to happen, the new resource or alter-native energy system must perform at least as efﬁciently asthe traditional ones. It is also expected for alternative andclean energy systems to have fewer negative environmentaleffects, for example GHG emissions and health and safetyrisks.
+Sustainable hydrogen production is critically necessary to
+tackle the energy and environmental challenges in a clean,
+efﬁcient, effective, reliable and affordable way, and address
+the crucial requirements for implementation. Sustainableinternational journal of hydrogen energy 43 (2018) 18059 e18076 18066
+hydrogen production options are expected to have enhanced
+(i) efﬁciencies, (ii) resource utilization, (iii) affordability, (iv)
+environmental protection, (v) energy security, and (vi) systemdesign and performance analysis. The selected sustainablehydrogen production criteria are presented in Fig. 2 . The hi-
+erarchical model for hydrogen production option selectioncan be seen in Fig. 3 .
+In this study, better economic, environmental, social, and
+technical performance and availability/reliability criteria areconsidered as sustainability indicators. Initial and runningcosts are considered as indicators of economic performance.GHG emissions, land use, water discharge quality, and solid
+waste generation are the environmental performance in-
+dicators. Social performance of hydrogen production systemsis comparatively assessed based on their impact on publichealth, employment and training opportunities, and publicacceptance. Within technical performance category, energyand exergy efﬁciencies, process control, and raw materialinput are the performance parameters. Last, the availability/reliability of selected hydrogen production methods arecompared to each other based on their dependence on im-ported resources, predictability, and scalability. For compari-son purposes, when considering economic, environmental,
+social, and technical performances, the production amounts
+of all selected methods are assumed to be equal (such as GHGemissions per kg hydrogen production).
+Initial cost include the costs of the design and construction
+of all components of a hydrogen production process. Here, itshould be noted that in grid electricity based electrolysis, thecosts of construction of the power plant and the grid are notincluded in the initial cost. But in wind and PV electrolysis,nuclear and solar thermochemical, and photoelectrochemicalmethods, all components are considered in the initial costwhich makes these alternatives more expensive than grid
+electrolysis. Running cost covers the operation and mainte-
+nance costs of the selected hydrogen production methods.Running costs include costs of labor, material and energy re-sources, and maintenance for proper operation.In environmental impact category, impact to air, land, and
+water are considered for a better understanding of the true
+damage on the environment. Greenhouse gas emissions, landuse, water discharge quality, and solid waste generation arethe criteria used to evaluate the environmental performanceof hydrogen production systems. Gases that trap heat in theatmosphere are called greenhouse gases which are namelyCO
+2,C H 4,N 2O, and ﬂuorinated gases. Land use is the land
+requirement for the hydrogen production system and itsauxiliary components. Water discharge quality indicates howpolluting the liquid discharge from selected hydrogen pro-duction methods are. Here it should be noted that not only
+contaminants and impurities but also discharge temperature
+is considered when evaluating wastewater quality. Last, solidwaste generation of the selected methods are compared. Ingrid electrolysis, the impact on the environment during theconstruction of power plant is not considered.
+Impact on public health can be caused directly or indirectly
+by the selected methods. In this study both direct and indirectimpacts are considered. Employment opportunities indicatethe new jobs introduced while training opportunities shownew skill sets and know-how addition to the existing work-force. Public acceptance is also taken into account as a social
+performance criterion because the successful integration of
+hydrogen into the existing energy mix requires acceptance bygreater audiences.
+Energy efﬁciency is a measure of how well energy is
+conserved while exergy efﬁciency focuses on the conservationof“the quality of energy ”. Exergy is used to quantify the
+maximum useful work which can be extracted from a sourceor system. Therefore, exergy efﬁciency is absolutely necessaryto truly investigate a system 's technical performance. Process
+control means how effectively the process input parameterscan be monitored, controlled, and adjusted as the output re-
+quirements or environmental conditions change. And raw
+material input is a measure of the quantity, quality, cost, andabundance of the raw material input requirements of a pro-cess. For instance, a process requiring precious and rare
+Fig. 2eSustainable hydrogen production criteria.international journal of hydrogen energy 43 (2018) 18059 e18076 18067
+elements would be considered to have low performance based
+on this criteria.
+Lastly, in availability/reliability criteria, dependence on
+imported resources, predictability, and scalability are
+considered. It has been widely accepted that a truly sustain-able system must rely on locally available and abundant re-sources instead of imports for better energy security.Predictability could include the variations in the input (e.g.,predicting the speed of wind in the future), or predicting theoutput quality and quantity with designated process param-eters. Scalability of a system is an indicator of how well itwould be adjusted to different regions, users, output amounts,etc. For instance, it would be more challenging to change thescale of a nuclear power plant while PV panels could be usedfor both single housing units and large scale power plants
+which makes them highly scalable.
+Criteria weights
+Three experts from hydrogen production industry have scored
+the criteria and sub-criteria by using pairwise comparisons.All experts have had different experiences and backgroundsfrom academic and business environments of energy in-
+dustry. In order to perform HFAHP, it is necessary to have
+evaluation scores with a maximum of 2 differences betweentheir values. For example, if an expert gives the score such as“Between 2 and 5 ”, it is unacceptable; because the difference
+between “2”and “5”equals to “3”. Therefore, the evaluation
+process is required to be iterated until the difference is lowerthan or equal to 2.
+First of all, ﬁve main criteria (economic performance (C1),
+environmental performance (C2), social performance (C3),technical performance (C4) and availability/reliability (C5)) areevaluated by each expert and individual matrices are aggre-
+gated by using geometric means (as mentioned at Step 6). The
+consistency ratio is computed as 0.09, 0.0004 and 0.007 forexpert 1, expert 2, and expert 3 respectively. These values areacceptable according to Saaty 's rules [63].Tables 2 e4indicate
+the fuzzy envelops of the main criteria evaluations of allexperts.
+After aggregating the matrices, OWA operator is applied to
+the fuzzy envelops for computing trapezoidal fuzzy setswhich are shown as (a, b, c, d). For example, in Table 5 , the
+fuzzy envelope of C1 and C2, which is clariﬁed as “Between
+WLI and ELI ”by all experts is found as (0.2, 0.33, 1, 1). Firstly, it
+is necessary to calculate a
+1and a2by the help of the formula
+given at Step 3. gwhich is the top rank number equals to 10; i
+which is the rank of lowest evaluation (WLI) equals to 3 and j
+which is the rank of highest evaluation (ELI) equals to 4. Then;
+a1¼10/C0ð4/C03Þ
+10/C01¼1
+a2¼ð4/C03Þ/C01
+10/C01¼0
+Since a ¼ai
+Land d ¼aj
+R;a¼0.2 (minimum value of WLI
+shown as 0.2, 0.33, 1) and d ¼1 (maximum value of ELI shown
+as 0.33, 1, 1).
+Ifif iþ1¼j; then b¼ai
+M. In our case, iþ1¼j; therefore
+b¼0:33.
+Ifif iþ1¼j; then c¼aiþ1
+M. In our case, iþ1¼j; therefore
+c¼1.
+So, (a, b, c, d) for the fuzzy envelope of C1 and C2 equals to
+(0.2, 0.33, 1, 1).
+Further, geometric means are calculated for the trape-
+zoidal fuzzy sets. First row is computed as following:
+ag¼ð1/C30:2/C30:58/C30:3/C30:34Þ1=5¼0:414
+bg¼ð1/C30:33/C31/C30:40/C30:48Þ1=5¼0:578
+cg¼ð1/C31/C32:08/C30:48/C31Þ1=5¼1
+dg¼ð1/C31/C32:92/C31/C31:71Þ1=5¼1:37Fig. 3eThe proposed model for hydrogen production selection decision.international journal of hydrogen energy 43 (2018) 18059 e18076 18068
+For normalization, all values are divided by 9 which is the
+highest score in the linguistic scale table.
+aw¼0:414 =9¼0:046
+bw¼0:578 =9¼0:064
+cw¼1=9¼0:111
+dw¼1:37=9¼0:153
+Table 6 shows the trapezoidal fuzzy weights of main
+criteria. The crisp weights are also obtained by defuzzifying
+the fuzzy numbers as shown in Step 9 (see Table 7 ).
+When main criteria evaluation results of all three inter-
+national experts are taken into account, it is seen that ( Table 7 )
+technical performance criteria has the highest importance,immediately followed by environmental performance criteria.Third important performance criteria is technical. Based onthe common view of our international experts, social perfor-mance criteria has the lowest importance, followed by eco-nomic performance criteria. The agreement between ourexperts state that technical performance (especially exergyefﬁciency) is key to sustainable hydrogen production. Exer-
+getically efﬁcient hydrogen production means that the pro-cess is using its resources less wastefully, which eventuallylowers the process cost and environmental impact. This iswhy environmental impact has the second highest impor-
+tance: sustainability requires effective and clean technologies.
+Close to these two criteria, availability and reliability state thatusing domestic and reliable resources is very important.When all of these criteria are met, costs are expected to godown as new technologies evolve and production sizes in-crease, and as a result, social performance improves as well.In a similar study, Thengane et al. [64]have compared GHG
+and waste generation, energy efﬁciency, raw material input,and scalability and highlighted the importance of technicalperformance. However, in their study, economic and socialperformances have not been taken into account.
+The same steps are applied for all sub-criteria. First of all,
+economic performance (C1) taken into account. The sub-criteria of economic aspects (initial cost (EC1), running cost(EC2)) are evaluated by each expert and the individual evalu-ations are aggregated by the help of geometric means. Becausethere are only two sub-criteria, the consistency is not neededTable 2 eFuzzy envelops of the main criteria evaluation of expert 1.
+C1 C2 C3 C4 C5
+C1 EE Between WLI and ELI WHI WLI WLI
+C2 EE ESHI Between EHI and WHI Between VLI and ESLI
+C3 EE Between VLI and ESLI VLI
+C4 EE Between ELI and EE
+C5 EE
+Table 3 eFuzzy envelops of the main criteria evaluation of expert 2.
+C1 C2 C3 C4 C5
+C1 EE Between WLI and ELI Between WLI and ELI Between ESLI and WLI Between EHI and WHI
+C2 EE EE Between WLI and ELI Between WHI and ESHI
+C3 EE Between WLI and ELI Between WHI and ESHI
+C4 EE Between ESHI and VHI
+C5 EE
+Table 4 eFuzzy envelops of the main criteria evaluation of expert 3.
+C1 C2 C3 C4 C5
+C1 EE Between WLI and ELI Between EHI and WHI EE Between WLI and ELI
+C2 EE Between WHI and ESHI Between EHI and WHI EE
+C3 EE Between WLI and ELI Between ESLI and WLI
+C4 EE Between WLI and ELI
+C5 EE
+Table 5 eTrapezoidal fuzzy sets of main criteria.
+C1 C2 C3 C4 C5
+C1 (1,1,1,1) (0.2,0.33,1,1) (0.58,1,2.08,2.92) (0.30,0.40,0.48,1) (0.34,0.48,1,1.71)
+C2 (1,1,3,5) (1,1,1,1) (1.44,2.46,2.92,3.65) (0.58,0.69,2.08,2.92) (0.48,0.75,1,1.32)
+C3 (0.34,0.48,1,1.71) (0.27,0.34,0.40,0.69) (1,1,1,1) (0.16,0.25,0.58,0.69) (0.25,0.44,0.62,1.11)
+C4 (1,2.08,2.46,3.27) (0.34,0.48,1.44,1.71) (1.44,1.71,3.97,6.08) (1,1,1,1) (0.58,1.18,1.91,2.08)
+C5 (0.58,1,2.08,2.92) (0.75,1,1.32,2.08) (0.89,1.61,2.26,3.98) (0.48,0.52,0.84,3.98) (1,1,1,1)international journal of hydrogen energy 43 (2018) 18059 e18076 18069
+to measure [63].Tables 8 e10indicate the fuzzy envelops of the
+economic performance sub-criteria evaluations of experts.The aggregated trapezoidal fuzzy sets of economic perfor-
+mance sub-criteria and the crisp values of the weights of
+economic performance sub-criteria are also given at Table 11
+and Table 12 respectively.
+Previous steps are conducted for other sub-criteria and the
+crisp weights are obtained by defuzzifying the fuzzy numbers.The weights of main criteria and global weights of all sub-criteria can be seen at Table 13 .
+Table 13 shows that running cost is given higher weight
+than the initial cost within economic performance criteria.Our experts have stated that in the long run, having lowrunning cost becomes more important than having low initial
+cost. Environmental performance criteria comparison shows
+that GHG emissions is assigned the highest weight and landuse is given the lowest weight. With the introduction of newrules and regulations after Kyoto Protocol and ParisAgreement, reduction of GHG emissions has become the pri-
+ority for many “clean technologies ”. Our experts also agree
+that ﬁrst step of lowering environmental impact should beaddressing GHG emissions. Water discharge quality also hashigh importance, since wastewater and polluted waters aresigniﬁcant threats to the environment (e.g., ecosystem dam-age, biodiversity loss, health issues, etc.). Solid waste is rela-tively easier to manage and handle, therefore it has thesecond lowest importance. Land use, although it is important,when compared to the impact on the air and water quality,
+has the lowest importance. Within social performance
+criteria, impact on public health has the highest importanceand public acceptance has the lowest. Our experts have statedthat sustainable hydrogen production should not threatedhuman health, which should be a priority. They have statedthat it is desired to have training opportunities which wouldenhance the know-how. They have stated that having skilledjobs with training opportunities is more important than thenumber of jobs. Which is why employment opportunities hasthe second lowest importance. Our experts expect publicacceptance as a later step with lower importance. Technical
+performance comparison indicates that exergy efﬁciency is
+the most important sub-criteria while raw material input isassigned the lowest weight. A truly sustainable process mustuse its resources effectively with minimal waste of “useful
+work ”which requires high exergy efﬁciency, which is the
+reason behind the results. Energy efﬁciency has high impor-tance as well, followed by process control. With better processcontrol options, supply and the process rates can be adjustedbased on the ﬂuctuating demand and supply, as well aschanging market conditions. Predictability is given the highestand scalability has the lowest weight among the availability/
+reliability criteria. Predictability states that when a process is
+highly predictable, it becomes possible to anticipate the pro-cess outputs based on changing environmental and processparameters. Next important criteria is dependence on im-ported resources, as sustainability states that using locallyavailable resources should be preferred.
+Hydrogen production option selection
+The fuzzy envelops for six alternatives (electrolysis (electricityfrom fossil fuels) (A1), wind electrolysis (A2), PV electrolysis(A3), nuclear thermochemical water splitting cycles (A4),solar thermochemical water splitting cycles (A5),Table 6 eTrapezoidal fuzzy weights of main criteria.
+Main Criteria Trapezoidal Fuzzy Weights
+C1 (0.05,0.06,0.11,0.15)
+C2 (0.09,0.12,0.2,0.26)C3 (0.04,0.05,0.08,0.11)C4 (0.09,0.13,0.21,0.26)
+C5 (0.08,0.11,0.15,0.28)
+Table 7 eCrisp values of the weights of main criteria.
+Main Criteria Crisp Weights
+C1 0.140
+C2 0.257
+C3 0.106C4 0.267C5 0.228
+Table 8 eFuzzy envelops of the economic performance
+sub-criteria evaluation of expert 1.
+EC1 EC2
+EC1 EE Between VLI and ESLI
+EC2 EE
+Table 9 eFuzzy envelops of the economic performance
+sub-criteria evaluation of expert 2.
+EC1 EC2
+EC1 EE ESHI
+EC2 EETable 11 eAggregated trapezoidal fuzzy sets of economic
+performance sub-criteria.
+EC1 EC2
+EC1 (1,1,1,1) (0.41,0.62,1,1.33)
+EC2 (0.75,1,1.61,2.47) (1,1,1,1)
+Table 10 eFuzzy envelops of the economic performance
+sub-criteria evaluation of expert 3.
+EC1 EC2
+EC1 EE Between WLI and ELI
+EC2 EETable 12 eCrisp values of the weights of economic
+performance sub-criteria.
+Economic Performance Sub-criteria Crisp Weights
+EC1 0.43
+EC2 0.56international journal of hydrogen energy 43 (2018) 18059 e18076 18070
+photoelectrochemical cells (A6)) in terms of sub-criteria are
+obtained according to evaluations of the experts. As anexample, the fuzzy envelops of all experts for evaluation of
+initial cost (EC1) are given at Table 14 .
+OWA operator is applied to the fuzzy envelops of experts
+individually for computing trapezoidal fuzzy sets. As anexample, in Table 14 , for Expert 3, the fuzzy envelope of A3
+and A6 which has 2 differences between the edges of theranges is clariﬁed as “Between ELI and EHI ”. And it equals to
+(0.33, 1, 1, 3). Similar computation is made to ﬁnd a
+1and a2.
+Then;
+a1¼10/C0ð6/C04Þ
+10/C01¼0:88
+a2¼ð6/C04Þ/C01
+10/C01¼0:11
+Since a ¼ai
+Land d ¼aj
+R;a¼0.33 (minimum value of ELI
+shown as 0.33, 1, 1) and d ¼3 (maximum value of EHI shown as
+1, 1, 3).
+Ifiþjis even, then b¼OWA
+w2ðaj
+m;…;aðiþjÞ=2
+mÞ:In our case, iþj¼
+10; therefore
+b¼a2*1þa1*1¼0:88*1þ0:11*1¼1
+Ifiþjis even, then c¼OWA
+w2ðaj
+m;aj/C01
+m;…;aðiþjÞ=2
+mÞ, therefore
+c¼2*1/C01¼1
+So, (a, b, c, d) for the fuzzy envelope of A3 and A6 in terms
+of initial cost evaluation of Expert 3 equals to (0.33, 1, 1, 3).
+As the next step, geometric means are calculated for the
+trapezoidal fuzzy sets. Then, for normalization, all values aredivided by 9 which is the highest score in the linguistic scaletable. After obtaining the trapezoidal fuzzy weights of sub-criteria from all experts, the aggregation is made by usinggeometric means. Similar steps are followed and the crispvalues of weights of main criteria, sub-criteria and alterna-tives in terms of criteria are obtained (as seen at Table 15 ).
+To conclude the proposed process, it is necessary to
+multiply the sub-criteria weights of alternatives with obtainedcriteria weights. Then, the obtained values of each alternative
+are multiplied with the weights of criteria. The ﬁnal weights ofalternatives are given at Table 16 .
+Table 16 shows the overall comparison of sustainability of
+the selected hydrogen production methods. When all criteriaare taken into account, grid electrolysis is seen as the mostsustainable option, followed by photoelectrochemical cellsand wind electrolysis. On the other hand, nuclear watersplitting cycles is seen as the least sustainable, followed by PVelectrolysis and solar thermochemical water splitting cycles.The main reason behind high sustainability of grid electrolysisis the fact that our experts considered the power plant andgrid connection are already existing in this method, whichlowers the initial cost and land use signiﬁcantly. In addition,
+grid electrolysis is already mature and well established, as a
+result, this method has higher energy and exergy efﬁciencies,better process control and predictability, and wider publicacceptance which are signiﬁcant beneﬁts while transitioningto a hydrogen economy. However, in the long term there areseveral problems associated with grid (fossil electricity based)electrolysis, such as high GHG emissions and negative impacton public health. Compared to other selected methods, gridelectrolysis has less training opportunities since its technol-ogy is very well developed and mature. Among the selectedmethods, nuclear thermochemical water splitting cycles has
+several challenges such as costs associated with the risk and
+control of nuclear, land requirement for the nuclear facility,water discharge quality issues, and solid waste hazard risk.Furthermore, public acceptance of nuclear energy is very lowespecially because of some serious nuclear power plant acci-dents: Fukushima Daiichi nuclear disaster (2011), Chernobyldisaster (1986), Three Mile Island accident (1979), and the SL-1accident (1961). Nuclear is often seen as a “clean ”alternative
+to fossil fuel based energy systems due to its zero GHG emis-sions. However, for a truly sustainable future, renewable en-ergy sources are to be selected, as agreed on by our experts.
+In this study, wind electrolysis, PV electrolysis, and solar
+thermochemical water splitting cycles are selected as
+renewable based hydrogen production methods. TheseTable 13 eWeights of main and sub-criteria.
+Main criteria Weights of main criteria Sub-criteria Global weights of sub-criteria
+Economic Performance (C1) 0.140 Initial cost (EC1) 0.061
+Running cost (EC2) 0.078
+Environmental
+Performance (C2)0.257 GHG emissions (EN1) 0.115
+Land use (EN2) 0.023
+Water discharge quality (EN3) 0.073
+Solid waste generation (EN4) 0.044
+Social Performance (C3) 0.106 Impact on public health (S1) 0.056
+Employment opportunities (S2) 0.018
+Training opportunities (S3) 0.024Public acceptance (S4) 0.007
+Technical Performance (C4) 0.267 Energy efﬁciency (T1) 0.048
+Exergy efﬁciency (T2) 0.151
+Process control (T3) 0.038Raw material input (T4) 0.029
+Availability/Reliability (C5) 0.228 Dependence on imported resources (AV1) 0.072
+Predictability (AV2) 0.092
+Scalability (AV3) 0.063international journal of hydrogen energy 43 (2018) 18059 e18076 18071
+options have similar performances such as lower running
+costs and reduced negative impact on the environment.Renewable based hydrogen production methods, especiallyphotoelectrochemical cells, have high social performance andthey rely on locally available sources which are great advan-
+tages. Most of the renewable based technologies are still inresearch and development stage and not commercialized inlarge scales. As a result, they either have lower efﬁciencies orhigh initial costs which hinder their economic and technicalperformance. These challenges, however, are expected to beaddressed as renewable technologies evolve with advance-ments in material sciences and introduction of novel tech-nologies. Therefore, it is commonly accepted to use grid (fossilbased) electricity for hydrogen production as a sustainable
+strategy. Transition to hydrogen economy can be initiated by
+grid electrolysis as the cleaner and novel technologies (such asphotoelectrochemical cells) evolve to become more efﬁcient,Table 14 eFuzzy envelops of all experts for evaluation of initial cost (EC1).
+A1 A2 A3 A4 A5 A6
+Expert 1
+A1 EE Between VHI and AHI Between VHI and AHI Between VHI and AHI Between VHI and AHI Between VHI and AHIA2 EE Between EHI and WHI Between WLI and ELI Between ESLI and WLI Between WHI and ESHIA3 EE Between ESLI and WLI Between VLI and ESLI Between EHI and WHI
+A4 EE Between WLI and ELI Between ESHI and VHI
+A5 EE Between VHI and AHI
+A6 EE
+Expert 2
+A1 EE Between VHI and AHI Between EHI and WHI Between ESHI and VHI Between WHI and ESHI Between EHI and WHIA2 EE Between VLI and ESLI Between WLI and ELI Between ESLI and WLI Between VLI and ESLIA3 EE Between WHI and ESHI Between EHI and WHI EE
+A4 EE Between WLI and ELI Between ESLI and WLI
+A5 EE Between WLI and ELI
+A6 EE
+Expert 3
+A1 EE AHI Between WHI and ESHI Between VHI and AHI Between ESHI and VHI Between WHI and ESHI
+A2 EE Between ALI and VLI Between ESLI and WLI Between VLI and ESLI Between ALI and VLIA3 EE Between WHI and VHI Between WHI and ESHI Between ELI and EHI
+A4 EE Between ESLI and WLI Between VLI and ESLI
+A5 EE Between ESLI and WLI
+A6 EE
+Table 15 eLocal and global weights of hydrogen production options in terms of sub-criteria.
+Main criteria
+(Weights)Sub
+criteriaGlobal weights
+of sub-criteriaCrisp Local
+Weights of AlternativesCrisp Global
+Weights of Alternatives
+A1 A2 A3 A4 A5 A6 A1 A2 A3 A4 A5 A6
+C1 (0.140) EC1 0.438 0.476 0.045 0.136 0.080 0.143 0.119 0.208 0.020 0.060 0.035 0.063 0.052
+EC2 0.562 0.046 0.288 0.202 0.100 0.160 0.204 0.026 0.162 0.114 0.056 0.090 0.115
+C2 (0.257) EN1 0.449 0.045 0.273 0.209 0.092 0.158 0.223 0.020 0.123 0.094 0.041 0.071 0.100
+EN2 0.093 0.103 0.118 0.220 0.029 0.094 0.436 0.010 0.011 0.020 0.003 0.009 0.040
+EN3 0.284 0.091 0.221 0.213 0.064 0.138 0.273 0.026 0.063 0.061 0.018 0.039 0.078
+EN4 0.174 0.053 0.271 0.212 0.071 0.159 0.234 0.009 0.047 0.037 0.012 0.028 0.041
+C3 (0.106) S1 0.530 0.049 0.262 0.213 0.077 0.165 0.234 0.026 0.139 0.113 0.041 0.088 0.124
+S2 0.170 0.253 0.095 0.097 0.347 0.147 0.061 0.043 0.016 0.017 0.059 0.025 0.010
+S3 0.230 0.050 0.193 0.188 0.175 0.160 0.234 0.012 0.044 0.043 0.040 0.037 0.054
+S4 0.070 0.373 0.112 0.137 0.062 0.175 0.141 0.026 0.008 0.010 0.004 0.012 0.010
+C4 (0.267) T1 0.181 0.363 0.080 0.075 0.198 0.194 0.090 0.066 0.015 0.013 0.036 0.035 0.016
+T2 0.565 0.406 0.075 0.062 0.199 0.182 0.077 0.230 0.042 0.035 0.112 0.103 0.043
+T3 0.144 0.374 0.107 0.095 0.170 0.093 0.160 0.054 0.015 0.014 0.024 0.013 0.023T4 0.110 0.088 0.182 0.182 0.045 0.224 0.278 0.010 0.020 0.020 0.005 0.025 0.031
+C5 (0.228) AV1 0.316 0.051 0.226 0.226 0.043 0.226 0.226 0.016 0.072 0.072 0.014 0.072 0.072
+AV2 0.405 0.292 0.086 0.148 0.050 0.142 0.282 0.118 0.035 0.060 0.020 0.057 0.114
+AV3 0.279 0.373 0.062 0.064 0.373 0.064 0.064 0.104 0.017 0.018 0.104 0.018 0.018
+Table 16 eFinal scores of alternatives.
+Alternatives Weights
+A1 0.211
+A2 0.163
+A3 0.154
+A4 0.126
+A5 0.157
+A6 0.188international journal of hydrogen energy 43 (2018) 18059 e18076 18072
+affordable, and reliable hydrogen production systems of the
+future.
+Sensitivity analysis
+Sensitivity analysis is a vital ﬁnal piece for many quantitative
+decision models used to assess the stability of the calculatedoptimal solution given changing criteria weights. To apply theanalysis, the criteria weights are changed one at a time from0 to 1 by 0.1, while the weights of the rest of the criteria are
+kept proportionally the same. Fig. 4 parts a, b, c, d, and e
+illustrate the sensitivity analysis results for economic perfor-mance, environmental performance, social performance,technical performance, and availability/reliability,
+respectively.
+As can be seen from Fig. 4 (a) and (e), although the
+sequence of the following alternatives are changing as thecriterion weights are increased, the ﬁnal decisions (i.e. thepreferred hydrogen production options) remain the same. Itmeans that the decision is not sensitive to changes in thecriteria weights of economic performance and availability/reliability. Therefore, no matter how the individual criterionweight changes for economic performance and availability/reliability, A1 remains the best alternative.
+In part (b) of Fig. 4 , it can be seen that a decrease in the
+criterion weight of the environmental performance from its
+Fig. 4eSensitivity analysis of (a) economic performance, (b) environmental performance, (c) social performance, (d)
+technical performance, and (e) availability/reliability criteria with respect to different weights.international journal of hydrogen energy 43 (2018) 18059 e18076 18073
+actual value of 0.257 does not affect the position of the best
+alternative, A1. However, as the criterion weight of the envi-
+ronmental performance is increased to approach 0.35, it isobserved that A1 leaves the lead to A6.
+In part (c) of Fig. 4 , it can be concluded that the decrease in
+the criterion weight of social performance does not change theselected alternative, A1. However, as the weight is increasedabove 0.30, the rank of A1 starts to decrease, and A6 becomesthe most preferred option for a while. After the weight reachesto 0.8, the overall ranking of the alternatives becomes A2, A6,A3, A5, A4 and A1. It means that the selected alternativechanges again, and the new one is A2. It is also interesting to
+see the initial leader of the list, A1, in the last position.
+In part (d) of Fig. 4 , it can be concluded that if the weight of
+technical performance is below 0.2, A6 is the preferred option.However, as the weight is increased above 0.2, A1 becomes theselection, and the distance between preference levels of A1and all other alternatives increases constantly, making thechoice a very clear one.
+Conclusions
+In this study, hesitant fuzzy AHP is used to evaluate the sus-tainability of different hydrogen production methods by tak-ing environmental, economic, social, technical, andavailability/reliability criteria into account. The selectedhydrogen production methods are grid electrolysis (electricityfrom fossil fuels), wind electrolysis, PV electrolysis, nuclearthermochemical water splitting cycles, photoelectrochemicalcells, and solar thermochemical water splitting cycles. Initialcost and running cost are the economic performance criteria.In environmental performance evaluation, GHG emissions,
+land use, water discharge quality, and solid waste generation
+are considered. Social performance evaluation criteria includeimpact on public health, employment opportunities, trainingopportunities, and public acceptance. Technical performancecriteria are: energy efﬁciency, exergy efﬁciency, process con-trol, and raw material input. And last but not least, depen-dence on imported resources, predictability, and scalabilityare the availability/reliability criteria. The key results of thisstudy can be summarized and concluded as.
+/C15Among the selected main categories, technical perfor-
+mance is given the highest importance, followed by envi-
+ronmental performance. On the other hand, socialperformance has the lowest weight on sustainability ofhydrogen production, compared to the other selected per-formance criteria.
+/C15Running cost is given higher weight than the initial cost
+within economic performance criteria.
+/C15Environmental performance criteria comparison shows
+that GHG emissions is assigned the highest weight andland use is given the lowest weight.
+/C15Within social performance criteria, impact on public health
+has the highest importance and public acceptance has the
+lowest.
+/C15Technical performance comparison indicates that exergy
+efﬁciency is the most important sub-criteria while rawmaterial input is assigned the lowest weight./C15Predictability is given the highest and scalability has the
+lowest weight among the availability/reliability criteria.
+/C15When all criteria are taken into account to evaluate and
+compare the sustainability of selected hydrogen produc-tion options, grid electrolysis is seen as the most sustain-able option, followed by solar thermochemical watersplitting cycles and wind electrolysis. On the other hand,nuclear water splitting cycles is seen as the least sustain-able, followed by PV electrolysis and photoelectrochemicalcells.
+Nomenclature
+AEL Alkaline electrolyzerAHI Absolutely high importanceAHP Analytic hierarchy processAHI Absolutely high importanceALI Absolutely low importance
+DEMATEL Decision making trial and evaluation laboratory
+EDAS Evaluation based on distance from average solutionEE Exactly equalEHI Equally high importanceELI Equally low importanceELECTRE Elimination and choice expressing realityESHI Essentially high importanceESLI Essentially low importanceGHG Greenhouse gasHFAHP Hesitant fuzzy analytic hierarchy processHFLTS Hesitant fuzzy linguistic terms sets
+HFS Hesitant fuzzy sets
+LH
+2 Liquid hydrogen
+MCDM Multi criteria decision makingOWA Ordered weighted averagingPEC Photoelectrochemical cellPEMEL Polymer electrode (or proton exchange) membrane
+electrolyzer
+PV PhotovoltaicsSEC Speciﬁc energy consumptionSOE Solid oxide electrolyzerVHI Very high importance
+VLI Very low importance
+WHI Weakly high importanceWLI Weakly low importance
+references
+[1]Dincer I, Acar C. Smart energy systems for a sustainable
+future. Appl Energy 2017;194:225 e35.
+[2]Dincer I, Acar C. Innovation in hydrogen production. Int J
+Hydrogen Energy 2017;42(22):14843 e64.
+[3]Acar C, Dincer I. Comparative environmental impact
+evaluation of hydrogen production methods from renewableand nonrenewable sources. In: Causes, impacts andsolutions to global warming. New York, NY: Springer; 2013.
+p. 493e514.
+[4]Aasadnia M, Mehrpooya M. Large-scale liquid hydrogen
+production methods and approaches: a review. Appl Energy2018;212:57 e83.international journal of hydrogen energy 43 (2018) 18059 e18076 18074
+[5]Nikolaidis P, Poullikkas A. A comparative overview of
+hydrogen production processes. Renew Sustain Energy Rev
+2017;67:597 e611.
+[6]da Silva Veras T, Mozer TS, da Silva C /C19esar A. Hydrogen:
+trends, production and characterization of the main processworldwide. Int J Hydrogen Energy 2017;42(4):2018 e33.
+[7]Fereidooni M, Mostafaeipour A, Kalantar V, Goudarzi H. A
+comprehensive evaluation of hydrogen production fromphotovoltaic power station. Renew Sustain Energy Rev
+2018;82:415 e23.
+[8]Hosseini SE, Wahid MA. Hydrogen production from
+renewable and sustainable energy resources: promisinggreen energy Carrier for clean development. Renew Sustain
+Energy Rev 2016;57:850 e66.
+[9]Fukuzumi S, Lee YM, Nam W. Thermal and photocatalytic
+production of hydrogen with earth-abundant metalcomplexes. Coord Chem Rev 2018;355:54 e73.
+[10] Singh S, Jain S, Venkateswaran PS, Tiwari AK, Nouni MR,
+Pandey JK, et al. Hydrogen: a sustainable fuel for future of thetransport sector. Renew Sustain Energy Rev 2015;51:623 e33.
+[11] Vincent I, Bessarabov D. Low cost hydrogen production by
+anion exchange membrane electrolysis: a review. Renew
+Sustain Energy Rev 2017;81:1690 e704.
+[12] Ahmed A, Al-Amin AQ, Ambrose AF, Saidur R. Hydrogen fuel
+and transport system: a sustainable and environmental
+future. Int J Hydrogen Energy 2016;41(3):1369 e80.
+[13] Dincer I, Acar C. A review on potential use of hydrogen in
+aviation applications. Int J Sustain Aviat 2016;2(1):74 e100.
+[14] Salvi BL, Subramanian KA. Sustainable development of road
+transportation sector using hydrogen energy system. RenewSustain Energy Rev 2015;51:1132 e55.
+[15] Buttler A, Spliethoff H. Current status of water electrolysis
+for energy storage, grid balancing and sector coupling via
+power-to-gas and power-to-liquids: a review. Renew SustainEnergy Rev 2017;82:2440 e54.
+[16] T-Raissi A, Block DL. Hydrogen: automotive fuel of the
+future. IEEE Power Energy Mag 2004;2(6):40 e5.
+[17] Mallouk TE. Water electrolysis: divide and conquer. Nat
+Chem 2013;5(5):362 .
+[18] Elam CC, Padr /C19o CEG, Sandrock G, Luzzi A, Lindblad P,
+Hagen EF. Realizing the hydrogen future: the InternationalEnergy Agency 's efforts to advance hydrogen energy
+technologies. Int J Hydrogen Energy 2003;28(6):601 e7.
+[19] Romm J. The car and fuel of the future. Energy Pol
+2006;34(17):2609 e14.
+[20] Bhandari R, Trudewind CA, Zapp P. Life cycle assessment of
+hydrogen production via electrolysis ea review. J Clean Prod
+2014;85:151 e63.
+[21] Jacobson MZ, Colella WG, Golden DM. Cleaning the air and
+improving health with hydrogen fuel-cell vehicles. Science
+2005;308(5730):1901 e5.
+[22] Acar C, Dincer I. Environmental impact assessment of
+renewables and conventional fuels for different end usepurposes. Int J Glob Warming 2017;13(3 e4):260e77.
+[23] Jørgensen C, Ropenus S. Production price of hydrogen from
+grid connected electrolysis in a power market with highwind penetration. Int J Hydrogen Energy 2008;33(20):5335 e44.
+[24] Ulleberg Ø, Nakken T, Ete A. The wind/hydrogen
+demonstration system at Utsira in Norway: evaluation of
+system performance using operational data and updatedhydrogen energy system modeling tools. Int J Hydrogen
+Energy 2010;35(5):1841 e52.
+[25] De Battista H, Mantz RJ, Garelli F. Power conditioning for a
+windehydrogen energy system. J Power Sources
+2006;155(2):478 e86.
+[26] Saba SM, Mu ¨ller M, Robinius M, Stolten D. The investment
+costs of electrolysis eA comparison of cost studies from the
+past 30 years. Int J Hydrogen Energy 2017;43:1209 e23.[27] Khaselev O, Bansal A, Turner JA. High-efﬁciency integrated
+multijunction photovoltaic/electrolysis systems for
+hydrogen production. Int J Hydrogen Energy
+2001;26(2):127 e32.
+[28] Gibson TL, Kelly NA. Optimization of solar powered
+hydrogen production using photovoltaic electrolysis devices.
+Int J Hydrogen Energy 2008;33(21):5931 e40.
+[29] Paola A, Fabrizio Z, Fabio O. Techno-economic optimization
+of hydrogen production by PV eelectrolysis: “RenHydrogen ”
+simulation program. Int J Hydrogen Energy
+2011;36(2):1371 e81.
+[30] Gibson TL, Kelly NA. Predicting efﬁciency of solar powered
+hydrogen generation using photovoltaic-electrolysis devices.
+Int J Hydrogen Energy 2010;35(3):900 e11.
+[31] Conibeer GJ, Richards BS. A comparison of PV/electrolyzer
+and photoelectrolytic technologies for use in solar tohydrogen energy storage systems. Int J Hydrogen Energy
+2007;32(14):2703 e11.
+[32]
+Funk JE. Thermochemical hydrogen production: past andpresent. Int J Hydrogen Energy 2001;26(3):185 e90.
+[33] Abanades S, Flamant G. Thermochemical hydrogen
+production from a two-step solar-driven water-splitting
+cycle based on cerium oxides. Sol Energy2006;80(12):1611 e23.
+[34] El-Emam RS, Ozcan H, Dincer I. Comparative cost evaluation
+of nuclear hydrogen production methods with the HydrogenEconomy Evaluation Program (HEEP). Int J Hydrogen Energy2015;40(34):11168 e77.
+[35] Bulﬁn B, Lange M, de Oliveira L, Roeb M, Sattler C. Solar
+thermochemical hydrogen production using ceria zirconiasolid solutions: efﬁciency analysis. Int J Hydrogen Energy2016;41(42):19320 e8.
+[36] Ehrhart BD, Muhich CL, Al-Shankiti I, Weimer AW. System
+efﬁciency for two-step metal oxide solar thermochemicalhydrogen production ePart 1: thermodynamic model and
+impact of oxidation kinetics. Int J Hydrogen Energy
+2016;41(44):19881 e93.
+[37] Ehrhart BD, Muhich CL, Al-Shankiti I, Weimer AW. System
+efﬁciency for two-step metal oxide solar thermochemical
+hydrogen production ePart 2: impact of gas heat recuperation
+and separation temperatures. Int J Hydrogen Energy2016;41(44):19894 e903.
+[38] Yilmaz F, Balta MT, Selbas ‚R. A review of solar based
+hydrogen production methods. Renew Sustain Energy Rev
+2016;56:171 e8.
+[39] Acar C, Dincer I, Naterer GF. Clean hydrogen and power from
+impure water. J Power Sources 2016;331:189 e97.
+[40] Morales-Guio CG, Liardet L, Mayer MT, Tilley SD, Gr €atzel M,
+Hu X. Photoelectrochemical hydrogen production inalkaline solutions using Cu
+2O coated with earth-abundant
+hydrogen evolution catalysts. Angew Chem Int Ed
+2015;54(2):664 e7.
+[41] Fan W, Yu X, Lu HC, Bai H, Zhang C, Shi W. Fabrication of
+TiO2/RGO/Cu2O heterostructure for photoelectrochemical
+hydrogen production. Appl Catal B Environ 2016;181:7 e15.
+[42] Lu X, Xie S, Yang H, Tong Y, Ji H. Photoelectrochemical
+hydrogen production from biomass derivatives and water.Chem Soc Rev 2014;43(22):7581 e93.
+[43] Ren J, Toniolo S. Life cycle sustainability decision-support
+framework for ranking of hydrogen production pathwaysunder uncertainties: an interval multi-criteria decision
+making approach. J Clean Prod 2018;175:222 e36.
+[44] Yu D. Hydrogen production technologies evaluation based on
+interval-valued intuitionistic fuzzy multi attribute decisionmaking method. J Appl Math 2014, 751249. 10 pages, https://
+doi.org/10.1155/2014/751249 .
+[45] Ren J, Fedele A, Mason M, Manzardo A, Scipioni A. Fuzzy
+multi-actor multi-criteria decision making for sustainabilityinternational journal of hydrogen energy 43 (2018) 18059 e18076 18075
+assessment of biomass-based technologies for hydrogen
+production. Int J Hydrogen Energy 2013;38:9111 e20.
+[46] Pilavachi PA, Chatzipanagi AI, Spyropoulou AI. Evaluation of
+hydrogen production methods using the analytic hierarchyprocess. Int J Hydrogen Energy 2009;34:5294 e303.
+[47] Afgan NH, Veziro /C21glu A, Carvalho MG. Multi-criteria
+evaluation of hydrogen system options. Int J Hydrogen
+Energy 2007;32:3183 e93.
+[48] Beskese A, Kahraman C, Irani Z. Quantiﬁcation of ﬂexibility
+in advanced manufacturing systems using fuzzy concept. Int
+J Prod Econ 2004;89(1):45 e56.
+[49] Torra VN, arukawa Y. On hesitant fuzzy sets and decision. In:
+The 18th IEEE international conference on fuzzy systems,
+Jeju Island, Korea; 2009. p. 1378 e82.
+[50] Torra V. Hesitant fuzzy sets. Int J Intell Syst 2010;25:529 e39.
+[51] Rodrı ´guez RM, Martı ´nez L, Herrera F. Hesitant fuzzy
+linguistic term sets for decision making. IEEE Trans Fuzzy
+Syst 2012;20:109 e19.
+[52] Zhou W, Xu Z. Portfolio selection and risk investment under
+the hesitant fuzzy environment. Knowl Base Syst2018;144:21 e31.
+[53] €Oztays ‚iB ,C¸ evik Onar S, Boltu ¨rk E, Kahraman C. Hesitant
+fuzzy analytic hierarchy process. IEEE Int Conf Fuzzy2015:1e7.
+[54] Demirel T, €Oner SC, Tu ¨zu¨n S, Deveci M, €Oner M, Demirel NC ¸.
+Choquet integral-based hesitant fuzzy decision-making toprevent soil erosion. Geoderma 2018;313:276 e89.
+[55] Liao HC, Yang LY, Xu ZS. Two new approaches based on
+ELECTRE II to solve the multiple criteria decision making
+problems with hesitant fuzzy linguistic term sets. Appl SoftComput 2018;63:223 e34.[56] Yuan J, Li C, Li W, Liu D, Li X. Linguistic hesitant fuzzy multi-
+criterion decision-making for renewable energy: a case study
+in Jilin. J Clean Prod 2018;172:3201 e14.
+[57] C ¸ oban V, Onar SZ. Modeling renewable energy usage with
+hesitant fuzzy cognitive map. Complex Intell Syst2017;3:155 e66.https://doi.org/10.1007/s40747-017-0043-y
+.
+[58] Xiao J, Cai J, Wang X. A hesitant fuzzy linguistic multicriteria
+decision-making method with interactive criteria and itsapplication to renewable energy projects selection. Math
+Probl Eng 2017, 9634725. 15 pages, https://doi.org/10.1155/
+2017/9634725 .
+[59] Liu H, Rodriguez RM. A fuzzy envelope for hesitant fuzzy
+linguistic term set and its application to multi criteria
+decision making. Inf Sci 2014;258:220 e38.
+[60] Filev D, Yager RR. On the issue of obtaining OWA operator
+weights. Fuzzy Set Syst 1998;94(2):157 e69.
+[61] Erdo /C21gan M, Kaya _I. A combined fuzzy approach to determine
+the best region for a nuclearpower plant in Turkey. Appl Soft
+Comput 2016;39:84 e93.
+[62] Otay _I, Oztaysi B, Cevik Onar S, Kahraman C. Multi-expert
+performance evaluation of healthcare institutions using an
+integrated intuitionistic fuzzy AHP &DEA methodology.
+Knowl Base Syst 2017;133:90 e106.
+[63] Saaty TL. Decision making for leaders: the analytic hierarchy
+process for decisions in a complex world. Third Revised
+Edition. Pittsburgh: RWS Publications; 2012 .
+[64] Thengane SK, Hoadley A, Bhattacharya S, Mitra S,
+Bandyopadhyay S. Cost-beneﬁt analysis of different
+hydrogen production technologies using AHP and Fuzzy
+AHP. Int J Hydrogen Energy 2014;39(28):15293 e306.international journal of hydrogen energy 43 (2018) 18059 e18076 18076
